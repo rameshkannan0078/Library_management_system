@@ -1,10 +1,10 @@
 
 var mysql = require('mssql');
 var connection  = {
-  user            : 'mzcanteen',
-  password        : 'Checkme@987',
-  server          : '103.207.1.92',
-  database        : 'library',
+  user            : '',
+  password        : '',
+  server          : '',
+  database        : '',
   synchronize: true,
   trustServerCertificate: true,
 };
