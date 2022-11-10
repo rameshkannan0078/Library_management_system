@@ -110,7 +110,7 @@ const ForgetPassword = async (e) =>{
 
     axios({
             method: 'post',
-            url: 'http://103.207.1.92:5001/index.php',
+            url: '',
             data: formData,
             config: { headers: {'Content-Type': 'multipart/form-data' }}
         })
