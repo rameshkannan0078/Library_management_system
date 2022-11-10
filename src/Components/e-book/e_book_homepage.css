@@ -1,0 +1,16 @@
+
+.card-img-top {
+    width: 80%;
+    height: 40vh;
+    object-fit: contain;
+    }
+.card-title h5{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+
+.list-group-item:hover{
+    background:rgb(72, 113, 247);
+    }

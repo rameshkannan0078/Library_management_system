@@ -1,0 +1,60 @@
+{
+  "name": "react-pdf-viewer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@j-hooks/use-before-leave": "^1.0.0",
+    "@react-pdf-viewer/core": "^3.1.0",
+    "@react-pdf-viewer/default-layout": "^3.1.0",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^4.21.7",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "caniuse-lite": "^1.0.30001373",
+    "cdbreact": "^1.5.3",
+    "generic-gmailsender": "^1.0.2",
+    "gmail-send": "^1.8.14",
+    "mdb-react-ui-kit": "^4.1.0",
+    "pdfjs-dist": "^2.12.313",
+    "react": "^17.0.2",
+    "react-before-leave": "^2.1.2",
+    "react-bootstrap": "^2.4.0",
+    "react-countup": "^6.3.0",
+    "react-csv": "^2.2.2",
+    "react-dom": "^17.0.2",
+    "react-native-smtp-mailer": "^1.2.5",
+    "react-remove-scroll-bar": "^2.3.3",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.0",
+    "rsuite": "^5.16.1",
+    "semantic-ui-react": "^2.1.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "set PORT=7104 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,948 @@
+spr_no,email,password,username,department,type,designation,user_type
+13,taksala@mountzion.ac.in,938860,taksaladevapriya,ECE,Staff,Assistant Professor,1
+30,muthukarthika5843@mountzion.ac.in,NULL,muthukarthik,CSE,Staff,Assistant Professor,1
+32,elavarasi@mountzion.ac.in,519405,elavarasi,CSE,Staff,Assistant Professor,1
+151,manikandan151@mountzion.ac.in,NULL,manikandan,ECE,Staff,Assistant Professor,1
+511,sangeetha511@mountzion.ac.in,859988,sangeetha,CSE,Staff,Assistant Professor,2
+537,radha.n@mountzion.ac.in,282931,radha,CIVIL ,Staff,Assistant Professor,1
+540,swaminathan@mountzion.ac.in,418470,swaminathan,CSE,Staff,Assistant Professor,1
+665,robinson665@mountzion.ac.in,NULL,robinson,ECE,Staff,Assistant Professor,1
+785,muthukumar785@mountzion.ac.in,NULL,muthukumar,EEE,Staff,Assistant Professor,1
+800,vinothkumar800@mountzion.ac.in,NULL,vinothkumar,MECH,Staff,Assistant Professor,1
+822,arunkumar822@mountzion.ac.in,151599,arunkumar,ECE,Staff,Assistant Professor,1
+837,ganesan837@mountzion.ac.in,NULL,ganeshan,ECE,Staff,Assistant Professor,1
+938,dencilinfant938@mountzion.ac.in,508038,dencilinfant,EEE,Staff,Assistant Professor,1
+996,ramachandran.k@mountzion.ac.in,NULL,ramachandran,ECE,Staff,Assistant Professor,1
+1013,periyasamy1013@mountzion.ac.in,NULL,periyasamy,EEE,Staff,Assistant Professor,1
+1029,kanivalan1029@mountzion.ac.in,NULL,kanivalan,ECE,Staff,Assistant Professor,1
+1035,amutha1035@mountzion.ac.in,NULL,amudha,ECE,Staff,Assistant Professor,1
+1150,manikandan1150@mountzion.ac.in,849444,manikandansm,CIVIL ,Staff,Assistant Professor,1
+822,arun@mountzion.ac.in,282931,arunkumar,cse,staff,Assistan Professor,1
+1736,vinothraj1736@mountzion.ac.in,619994,vinothraj,MECH,Staff,Assistan Professor,1
+1751,sathishkumar1751@mountzion.ac.in,592407,sathish,CSE,Staff,Assistan Professor,1
+7835,rameshkannan7835@mountzion.ac.in,222222,Ramesh Kannan,CSE,student,Student,2
+1611,anitha1611@mountzion.ac.in,282931,Anitha,Civil,staff,Assistan Professor,1
+1746,lakshman1746@mountzion.ac.in,282931,LakshmanKumar,CSE,staff,Assistan Professor,1
+1657,kavitha1657@mountzion.ac.in,429788,Kavitha,ECE,staff,Assistan Professor,1
+1609,ramaprabha1609@mountzion.ac.in,507046,ramaprabha,ECE,staff,Assistan Professor,1
+7579,dinesh7579@mountzion.ac.in,NULL,DINESH J.,CIVIL,student,Student,0
+7580,krishnamoorthy7580@mountzion.ac.in,NULL,krishnamoorthy7580,CIVIL,student,Student,0
+7589,ayyappan7589@mountzion.ac.in,NULL,ayyappan7589,CIVIL,student,Student,0
+7601,elamathy7601@mountzion.ac.in,NULL,elamathy7601,CIVIL,student,Student,0
+7608,pushpakaran7608@mountzion.ac.in,NULL,pushpakaran7608,CIVIL,student,Student,0
+7615,santhoshkumar7615@mountzion.ac.in,NULL,santhoshkumar7615,CIVIL,student,Student,0
+7619,mohamedrafi7619@mountzion.ac.in,NULL,mohamedrafi7619,CIVIL,student,Student,0
+7625,19civil7625@mountzion.ac.in,NULL,19CIVIL7625,CIVIL,student,Student,0
+7626,jegan7626@mountzion.ac.in,NULL,jegan7626,CIVIL,student,Student,0
+7629,ganeshkumar7629@mountzion.ac.in,NULL,ganeshkumar7629,CIVIL,student,Student,0
+7638,tamilselvan7638@mountzion.ac.in,NULL,tamilselvan7638,CIVIL,student,Student,0
+7643,meeranafil7643@mountzion.ac.in,NULL,meeranafil7643,CIVIL,student,Student,0
+7645,kasenmohamed7645@mountzion.ac.in,NULL,kasenmohamed7645,CIVIL,student,Student,0
+7647,kavya7647@mountzion.ac.in,NULL,kavya7647,CIVIL,student,Student,0
+7653,ajay7653@mountzion.ac.in,NULL,ajay7653,CIVIL,student,Student,0
+7673,meenatchisundaram7673@mountzion.ac.in,NULL,meenatchisundaram7673,CIVIL,student,Student,0
+7675,logith7675@mountzion.ac.in,NULL,logith7675,CIVIL,student,Student,0
+7676,mohammedsamir7676@mountzion.ac.in,NULL,mohammedsamir7676,CIVIL,student,Student,0
+7679,arunkumar7679@mountzion.ac.in,NULL,arunkumar7679,CIVIL,student,Student,0
+7681,sakthivel7681@mountzion.ac.in,NULL,sakthivel7681,CIVIL,student,Student,0
+7684,vasanthakumar7684@mountzion.ac.in,NULL,vasanthakumar7684,CIVIL,student,Student,0
+7696,hariharan7696@mountzion.ac.in,NULL,hariharan7696,CIVIL,student,Student,0
+7772,ramasamy7772@mountzion.ac.in,NULL,ramasamy7772,CIVIL,student,Student,0
+7779,siva7779@mountzion.ac.in,NULL,siva7779,CIVIL,student,Student,0
+7801,imrankhan7801@mountzion.ac.in,NULL,imrankhan7801,CIVIL,student,Student,0
+7810,mohamedharish7810@mountzion.ac.in,NULL,mohamedharish7810,CIVIL,student,Student,0
+7814,balamanikandan7814@mountzion.ac.in,NULL,balamanikandan7814,CIVIL,student,Student,0
+7818,senthurapandi7818@mountzion.ac.in,NULL,senthurapandi7818,CIVIL,student,Student,0
+7831,balachandran7831@mountzion.ac.in,NULL,balachandran7831,CIVIL,student,Student,0
+7855,vinoth7855@mountzion.ac.in,NULL,vinoth7855,CIVIL,student,Student,0
+7861,sudharsan7861@mountzion.ac.in,NULL,sudharsan7861,CIVIL,student,Student,0
+7868,saravanan7868@mountzion.ac.in,NULL,saravanan7868,CIVIL,student,Student,0
+7869,hemapriya7869@mountzion.ac.in,NULL,hemapriya7869,CIVIL,student,Student,0
+7962,mugeshkannan7962@mountzion.ac.in,NULL,MUGESH KANNAN P,CIVIL,student,Student,0
+7974,suriyaram7974@mountzion.ac.in,NULL,SURIYARAM C.S,CIVIL,student,Student,0
+8025,gokulakrishnan8025@mountzion.ac.in,NULL,gokulakrishnan8025,CIVIL,student,Student,0
+8060,vigneshwaran8060@mountzion.ac.in,NULL,VIGNESHWARAN S,CIVIL,student,Student,0
+8094,vijayaraja8094@mountzion.ac.in,NULL,VIJAYARAJA K,CIVIL,student,Student,0
+8096,somasundaram8096@mountzion.ac.in,NULL,SOMASUNDARAM C,CIVIL,student,Student,0
+8100,gopinath8100@mountzion.ac.in,NULL,GOPINATH K,CIVIL,student,Student,0
+8103,santhosh8103@mountzion.ac.in,NULL,SANTHOSH V.,CIVIL,student,Student,0
+8107,gayathri8107@mountzion.ac.in,NULL,GAYATHRI B.,CIVIL,student,Student,0
+8111,parthiban8111@mountzion.ac.in,NULL,PARTHIBAN,CIVIL,student,Student,0
+8116,manojkumar8116@mountzion.ac.in,NULL,MANOJKUMAR R,CIVIL,student,Student,0
+7721,selvakumari7721@mountzion.ac.in,NULL,SELVAKUMARI M.,CS,student,Student,0
+7574,faizalrahman7574@mountzion.ac.in,NULL,FAIZALRAHMAN R.,CSE,student,Student,0
+7577,manojkumar7577@mountzion.ac.in,NULL,manojkumar7577,CSE,student,Student,0
+7578,kaviya7578@mountzion.ac.in,NULL,kaviya7578,CSE,student,Student,0
+7581,madhankumar7581@mountzion.ac.in,NULL,madhankumar7581,CSE,student,Student,0
+7584,sneha7584@mountzion.ac.in,NULL,sneha7584,CSE,student,Student,0
+7590,hebsiba7590@mountzion.ac.in,NULL,hebsiba7590,CSE,student,Student,0
+7592,rajalakshmi7592@mountzion.ac.in,NULL,rajalakshmi7592,CSE,student,Student,0
+7593,sathiyapriya7593@mountzion.ac.in,NULL,sathiyapriya7593,CSE,student,Student,0
+7597,mohanasrinath7597@mountzion.ac.in,NULL,mohanasrinath7597,CSE,student,Student,0
+7598,arunpandiyan7598@mountzion.ac.in,NULL,arunpandiyan7598,CSE,student,Student,0
+7606,ramanathan7606@mountzion.ac.in,NULL,ramanathan7606,CSE,student,Student,0
+7609,19cse7609@mountzion.ac.in,NULL,19CSE7609,CSE,student,Student,0
+7611,karthikeyan7611@mountzion.ac.in,NULL,karthikeyan7611,CSE,student,Student,0
+7616,deepan7616@mountzion.ac.in,NULL,deepan7616,CSE,student,Student,0
+7617,vasuki7617@mountzion.ac.in,NULL,vasuki7617,CSE,student,Student,0
+7624,manoj7624@mountzion.ac.in,NULL,manoj7624,CSE,student,Student,0
+7627,monika7627@mountzion.ac.in,NULL,monika7627,CSE,student,Student,0
+7632,19cse7632@mountzion.ac.in,NULL,19CSE7632,CSE,student,Student,0
+7635,naveen7635@mountzion.ac.in,NULL,naveen7635,CSE,student,Student,0
+7640,shrreenidhi7640@mountzion.ac.in,NULL,shrreenidhi7640,CSE,student,Student,0
+7642,nivethitha7642@mountzion.ac.in,NULL,nivethitha7642,CSE,student,Student,0
+7649,reenakatherine7649@mountzion.ac.in,NULL,reenakatherine7649,CSE,student,Student,0
+7651,sineka7651@mountzion.ac.in,NULL,sineka7651,CSE,student,Student,0
+7652,akash7652@mountzion.ac.in,NULL,akash7652,CSE,student,Student,0
+7654,dharshini7654@mountzion.ac.in,NULL,dharshini7654,CSE,student,Student,0
+7656,abinayaa7656@mountzion.ac.in,NULL,abinayaa7656,CSE,student,Student,0
+7657,karthikeyan7657@mountzion.ac.in,NULL,karthikeyan7657,CSE,student,Student,0
+7658,saran7658@mountzion.ac.in,NULL,saran7658,CSE,student,Student,0
+7659,mohamedaasiq7659@mountzion.ac.in,NULL,mohamedaasiq7659,CSE,student,Student,0
+7662,nagaraj7662@mountzion.ac.in,NULL,nagaraj7662,CSE,student,Student,0
+7663,19cse7663@mountzion.ac.in,NULL,19CSE7663,CSE,student,Student,0
+7668,sivaprasanth7668@mountzion.ac.in,NULL,sivaprasanth7668,CSE,student,Student,0
+7669,ariharan7669@mountzion.ac.in,NULL,ariharan7669,CSE,student,Student,0
+7670,shaalini7670@mountzion.ac.in,NULL,shaalini7670,CSE,student,Student,0
+7672,kannan7672@mountzion.ac.in,NULL,kannan7672,CSE,student,Student,0
+7678,vasanth7678@mountzion.ac.in,NULL,vasanth7678,CSE,student,Student,0
+7680,shanmugapriya7680@mountzion.ac.in,NULL,shanmugapriya7680,CSE,student,Student,0
+7689,vignesh7689@mountzion.ac.in,NULL,vignesh7689,CSE,student,Student,0
+7704,raghubalan7704@mountzion.ac.in,NULL,raghubalan7704,CSE,student,Student,0
+7705,lenin7705@mountzion.ac.in,NULL,lenin7705,CSE,student,Student,0
+7707,jayson7707@mountzion.ac.in,NULL,jayson7707,CSE,student,Student,0
+7709,akash7709@mountzion.ac.in,NULL,akash7709,CSE,student,Student,0
+7713,suriyasoundaram7713@mountzion.ac.in,NULL,suriyasoundaram7713,CSE,student,Student,0
+7717,yasarmohamed7717@mountzion.ac.in,NULL,yasarmohamed7717,CSE,student,Student,0
+7718,reemahajra7718@mountzion.ac.in,NULL,reemahajra7718,CSE,student,Student,0
+7719,rathinavel7719@mountzion.ac.in,NULL,rathinavel7719,CSE,student,Student,0
+7722,poovizhikabilan7722@mountzion.ac.in,NULL,poovizhikabilan7722,CSE,student,Student,0
+7723,19cse7723@mountzion.ac.in,NULL,19CSE7723,CSE,student,Student,0
+7725,thamega7725@mountzion.ac.in,NULL,thamega7725,CSE,student,Student,0
+7726,snehasri7726@mountzion.ac.in,NULL,snehasri7726,CSE,student,Student,0
+7728,arulraj7728@mountzion.ac.in,NULL,arulraj7728,CSE,student,Student,0
+7733,saravanapandiyan7733@mountzion.ac.in,NULL,saravanapandiyan7733,CSE,student,Student,0
+7751,jonathansorensonfranklin7751@mountzion.ac.in,NULL,jonathansorensonfranklin7751,CSE,student,Student,0
+7752,abdulazeez7752@mountzion.ac.in,NULL,abdulazeez7752,CSE,student,Student,0
+7755,vignesh7755@mountzion.ac.in,NULL,vignesh7755,CSE,student,Student,0
+7759,mahalakshmi7759@mountzion.ac.in,NULL,MAHALAKSHMI S.,CSE,student,Student,0
+7760,sathya7760@mountzion.ac.in,NULL,SATHYA D.,CSE,student,Student,0
+7771,madhan7771@mountzion.ac.in,NULL,madhan7771,CSE,student,Student,0
+7777,sivakumar7777@mountzion.ac.in,NULL,sivakumar7777,CSE,student,Student,0
+7782,princysindhiya7782@mountzion.ac.in,NULL,princysindhiya7782,CSE,student,Student,0
+7785,pragadheesh7785@mountzion.ac.in,NULL,pragadheesh7785,CSE,student,Student,0
+7787,nivetha7787@mountzion.ac.in,NULL,nivetha7787,CSE,student,Student,0
+7802,subhiksha7802@mountzion.ac.in,NULL,subhiksha7802,CSE,student,Student,0
+7808,jayasundar7808@mountzion.ac.in,NULL,jayasundar7808,CSE,student,Student,0
+7816,nishabharathi7816@mountzion.ac.in,NULL,nishabharathi7816,CSE,student,Student,0
+7820,vaishali7820@mountzion.ac.in,NULL,vaishali7820,CSE,student,Student,0
+7821,selcia7821@mountzion.ac.in,NULL,selcia7821,CSE,student,Student,0
+7825,priyanka7825@mountzion.ac.in,NULL,priyanka7825,CSE,student,Student,0
+7827,19cse7827@mountzion.ac.in,NULL,19CSE7827,CSE,student,Student,0
+7829,priyadharshini7829@mountzion.ac.in,NULL,priyadharshini7829,CSE,student,Student,0
+7830,hariharasudhan7830@mountzion.ac.in,NULL,hariharasudhan7830,CSE,student,Student,0
+7833,karuppaiah7833@mountzion.ac.in,NULL,karuppaiah7833,CSE,student,Student,0
+7835,rameshkannan7835@mountzion.ac.in,NULL,rameshkannan7835,CSE,student,Student,0
+7837,navin7837@mountzion.ac.in,NULL,navin7837,CSE,student,Student,0
+7838,ishwarya7838@mountzion.ac.in,NULL,ishwarya7838,CSE,student,Student,0
+7842,pavithra7842@mountzion.ac.in,NULL,pavithra7842,CSE,student,Student,0
+7843,veeraprathap7843@mountzion.ac.in,NULL,veeraprathap7843,CSE,student,Student,0
+7844,seenivasan7844@mountzion.ac.in,NULL,seenivasan7844,CSE,student,Student,0
+7845,karuppaiah7845@mountzion.ac.in,NULL,karuppaiah7845,CSE,student,Student,0
+7846,karuppaiah7846@mountzion.ac.in,NULL,karuppaiah7846,CSE,student,Student,0
+7848,vairamuthu7848@mountzion.ac.in,NULL,vairamuthu7848,CSE,student,Student,0
+7850,yuvaraj7850@mountzion.ac.in,NULL,yuvaraj7850,CSE,student,Student,0
+7851,malapriyadarshni7851@mountzion.ac.in,NULL,MALAPRIYADARSHNI K.,CSE,student,Student,0
+7853,kiruthikaparameshwari7853@mountzion.ac.in,NULL,kiruthikaparameshwari7853,CSE,student,Student,0
+7856,ganesh7856@mountzion.ac.in,NULL,ganesh7856,CSE,student,Student,0
+7862,priyadharshini7862@mountzion.ac.in,NULL,priyadharshini7862,CSE,student,Student,0
+7871,mohammedismail7871@mountzion.ac.in,NULL,mohammedismail7871,CSE,student,Student,0
+7881,abdulrahman7881@mountzion.ac.in,NULL,abdulrahman7881,CSE,student,Student,0
+7887,umabharathi7887@mountzion.ac.in,NULL,umabharathi7887,CSE,student,Student,0
+8093,ajeethkumar8093@mountzion.ac.in,NULL,ajeethkumar8093,CSE,student,Student,0
+7575,mohamedibrahim7575@mountzion.ac.in,NULL,mohamedibrahim7575,ECE,student,Student,0
+7595,sneha7595@mountzion.ac.in,NULL,sneha7595,ECE,student,Student,0
+7613,ashok7613@mountzion.ac.in,NULL,ashok7613,ECE,student,Student,0
+7618,19ece7618@mountzion.ac.in,NULL,19ECE7618,ECE,student,Student,0
+7622,ranjani7622@mountzion.ac.in,NULL,ranjani7622,ECE,student,Student,0
+7628,19ece7628@mountzion.ac.in,NULL,19ECE7628,ECE,student,Student,0
+7637,arulantony7637@mountzion.ac.in,NULL,arulantony7637,ECE,student,Student,0
+7639,vasanth7639@mountzion.ac.in,NULL,vasanth7639,ECE,student,Student,0
+7646,sneha7646@mountzion.ac.in,NULL,sneha7646,ECE,student,Student,0
+7650,vijayalakshmi7650@mountzion.ac.in,NULL,vijayalakshmi7650,ECE,student,Student,0
+7666,khaushalya7666@mountzion.ac.in,NULL,khaushalya7666,ECE,student,Student,0
+7692,jashma7692@mountzion.ac.in,NULL,jashma7692,ECE,student,Student,0
+7711,priyadharshini7711@mountzion.ac.in,NULL,priyadharshini7711,ECE,student,Student,0
+7715,thendral7715@mountzion.ac.in,NULL,thendral7715,ECE,student,Student,0
+7716,ramesh7716@mountzion.ac.in,NULL,ramesh7716,ECE,student,Student,0
+7720,beula7720@mountzion.ac.in,NULL,beula7720,ECE,student,Student,0
+7739,mohamedumar7739@mountzion.ac.in,NULL,mohamedumar7739,ECE,student,Student,0
+7743,anburaj7743@mountzion.ac.in,NULL,anburaj7743,ECE,student,Student,0
+7764,asthalakshmi7764@mountzion.ac.in,NULL,asthalakshmi7764,ECE,student,Student,0
+7765,fahmithabanu7765@mountzion.ac.in,NULL,fahmithabanu7765,ECE,student,Student,0
+7773,rajamanickam7773@mountzion.ac.in,NULL,rajamanickam7773,ECE,student,Student,0
+7780,dharni7780@mountzion.ac.in,NULL,dharni7780,ECE,student,Student,0
+7807,abitha7807@mountzion.ac.in,NULL,abitha7807,ECE,student,Student,0
+7822,aarthi7822@mountzion.ac.in,NULL,aarthi7822,ECE,student,Student,0
+7823,dhanasekaran7823@mountzion.ac.in,NULL,dhanasekaran7823,ECE,student,Student,0
+7826,prabhakaran7826@mountzion.ac.in,NULL,prabhakaran7826,ECE,student,Student,0
+7828,udaiyappan7828@mountzion.ac.in,NULL,udaiyappan7828,ECE,student,Student,0
+7832,aravind7832@mountzion.ac.in,NULL,aravind7832,ECE,student,Student,0
+7839,rubini7839@mountzion.ac.in,NULL,rubini7839,ECE,student,Student,0
+7841,praveena7841@mountzion.ac.in,NULL,praveena7841,ECE,student,Student,0
+7847,keerthana7847@mountzion.ac.in,NULL,keerthana7847,ECE,student,Student,0
+7860,benny7860@mountzion.ac.in,NULL,benny7860,ECE,student,Student,0
+7872,vidhya7872@mountzion.ac.in,NULL,vidhya7872,ECE,student,Student,0
+7875,subikshan7875@mountzion.ac.in,NULL,subikshan7875,ECE,student,Student,0
+7876,sneka7876@mountzion.ac.in,NULL,sneka7876,ECE,student,Student,0
+7992,gowthaman7992@mountzion.ac.in,NULL,gowthaman7992,ECE,student,Student,0
+8110,madhavan8110@mountzion.ac.in,NULL,madhavan8110,ECE,student,Student,0
+7583,lakshmnseenivasan7583@mountzion.ac.in,NULL,lakshmnseenivasan7583,EEE,student,Student,0
+7602,chandru7602@mountzion.ac.in,NULL,chandru7602,EEE,student,Student,0
+7603,19eee7603@mountzion.ac.in,NULL,19EEE7603,EEE,student,Student,0
+7612,yogeshkannaa7612@mountzion.ac.in,NULL,yogeshkannaa7612,EEE,student,Student,0
+7623,gowsalya7623@mountzion.ac.in,NULL,gowsalya7623,EEE,student,Student,0
+7633,abimanyu7633@mountzion.ac.in,NULL,abimanyu7633,EEE,student,Student,0
+7685,muthusamy7685@mountzion.ac.in,NULL,muthusamy7685,EEE,student,Student,0
+7687,akash7687@mountzion.ac.in,NULL,akash7687,EEE,student,Student,0
+7697,kannikaparameswari7697@mountzion.ac.in,NULL,kannikaparameswari7697,EEE,student,Student,0
+7699,chinnathambisanthosh7699@mountzion.ac.in,NULL,chinnathambisanthosh7699,EEE,student,Student,0
+7703,aravinth7703@mountzion.ac.in,NULL,aravinth7703,EEE,student,Student,0
+7706,19eee7706@mountzion.ac.in,NULL,19EEE7706,EEE,student,Student,0
+7738,pushparajan7738@mountzion.ac.in,NULL,pushparajan7738,EEE,student,Student,0
+7756,muthusubramanian7756@mountzion.ac.in,NULL,muthusubramanian7756,EEE,student,Student,0
+7766,syedmohamed7766@mountzion.ac.in,NULL,syedmohamed7766,EEE,student,Student,0
+7804,rubasri7804@mountzion.ac.in,NULL,rubasri7804,EEE,student,Student,0
+7815,sabarikkarasan7815@mountzion.ac.in,NULL,sabarikkarasan7815,EEE,student,Student,0
+7819,karthick7819@mountzion.ac.in,NULL,karthick7819,EEE,student,Student,0
+7834,jeyashree7834@mountzion.ac.in,NULL,jeyashree7834,EEE,student,Student,0
+7854,aarthi7854@mountzion.ac.in,NULL,aarthi7854,EEE,student,Student,0
+7867,siva7867@mountzion.ac.in,NULL,siva7867,EEE,student,Student,0
+7982,nitheskumar7982@mountzion.ac.in,NULL,NITHESKUMAR,EEE,student,Student,0
+8015,DHANESHPANDIAN8015@mountzion.ac.in,NULL,DHANESHPANDIAN A,EEE,student,Student,0
+8015,dhaneshpandiyan8015@mountzion.ac.in,NULL,dhaneshpandiyan8015,EEE,student,Student,0
+8030,vijayakumar8030@mountzion.ac.in,NULL,VIJAYA KUMAR S,EEE,student,Student,0
+8034,ramkumar8034@mountzion.ac.in,NULL,RAMKUMAR S,EEE,student,Student,0
+8084,kaviya8084@mountzion.ac.in,NULL,kaviya8084,EEE,student,Student,0
+8091,deepikasornambika8091@mountzion.ac.in,NULL,deepikasornambika8091,EEE,student,Student,0
+8099,manikandan8099@mountzion.ac.in,NULL,manikandan8099,EEE,student,Student,0
+8113,kumaresh8113@mountzion.ac.in,NULL,Kumaresh8113,EEE,student,Student,0
+7582,akilan7582@mountzion.ac.in,NULL,akilan7582,MECH,student,Student,0
+7586,yogeshwaran7586@mountzion.ac.in,NULL,yogeshwaran7586,MECH,student,Student,0
+7587,gurupandi7587@mountzion.ac.in,NULL,gurupandi7587,MECH,student,Student,0
+7588,mohamedmusaraf7588@mountzion.ac.in,NULL,mohamedmusaraf7588,MECH,student,Student,0
+7591,pravin7591@mountzion.ac.in,NULL,pravin7591,MECH,student,Student,0
+7596,arunkumar7596@mountzion.ac.in,NULL,arunkumar7596,MECH,student,Student,0
+7604,arasumuthirulappan7604@mountzion.ac.in,NULL,arasumuthirulappan7604,MECH,student,Student,0
+7605,vigneshwaran7605@mountzion.ac.in,NULL,vigneshwaran7605,MECH,student,Student,0
+7607,suriya7607@mountzion.ac.in,NULL,suriya7607,MECH,student,Student,0
+7614,dhinesh7614@mountzion.ac.in,NULL,dhinesh7614,MECH,student,Student,0
+7621,eeshwar7621@mountzion.ac.in,NULL,eeshwar7621,MECH,student,Student,0
+7628,dinesh7628@mountzion.ac.in,NULL,dinesh7628,MECH,student,Student,0
+7634,mohammediqram7634@mountzion.ac.in,NULL,mohammediqram7634,MECH,student,Student,0
+7641,kavithasan7641@mountzion.ac.in,NULL,kavithasan7641,MECH,student,Student,0
+7648,mohamedsahabudeen7648@mountzion.ac.in,NULL,mohamedsahabudeen7648,MECH,student,Student,0
+7655,marimuthu7655@mountzion.ac.in,NULL,marimuthu7655,MECH,student,Student,0
+7660,kirthikroshan7660@mountzion.ac.in,NULL,kirthikroshan7660,MECH,student,Student,0
+7665,gokul7665@mountzion.ac.in,NULL,gokul7665,MECH,student,Student,0
+7667,vasanth7667@mountzion.ac.in,NULL,vasanth7667,MECH,student,Student,0
+7671,veeravishwanath7671@mountzion.ac.in,NULL,veeravishwanath7671,MECH,student,Student,0
+7674,sriram7674@mountzion.ac.in,NULL,sriram7674,MECH,student,Student,0
+7682,anandhapandi7682@mountzion.ac.in,NULL,anandhapandi7682,MECH,student,Student,0
+7683,19mech7683@mountzion.ac.in,NULL,19MECH7683,MECH,student,Student,0
+7686,danial7686@mountzion.ac.in,NULL,danial7686,MECH,student,Student,0
+7688,venkateshwaran7688@mountzion.ac.in,NULL,venkateshwaran7688,MECH,student,Student,0
+7690,chinnasamy7690@mountzion.ac.in,NULL,chinnasamy7690,MECH,student,Student,0
+7691,naveenprashad7691@mountzion.ac.in,NULL,naveenprashad7691,MECH,student,Student,0
+7698,solaikumar7698@mountzion.ac.in,NULL,solaikumar7698,MECH,student,Student,0
+7700,prejwalkumar7700@mountzion.ac.in,NULL,prejwalkumar7700,MECH,student,Student,0
+7701,19mech7701@mountzion.ac.in,NULL,19MECH7701,MECH,student,Student,0
+7708,priyan7708@mountzion.ac.in,NULL,priyan7708,MECH,student,Student,0
+7730,alagu7730@mountzion.ac.in,NULL,alagu7730,MECH,student,Student,0
+7737,vijay7737@mountzion.ac.in,NULL,vijay7737,MECH,student,Student,0
+7757,shanmuganathan7757@mountzion.ac.in,NULL,shanmuganathan7757,MECH,student,Student,0
+7783,logesh7783@mountzion.ac.in,NULL,logesh7783,MECH,student,Student,0
+7789,ranjithjoshvan7789@mountzion.ac.in,NULL,ranjithjoshvan7789,MECH,student,Student,0
+7806,abimani7806@mountzion.ac.in,NULL,abimani7806,MECH,student,Student,0
+7809,vigneshwaran7809@mountzion.ac.in,NULL,vigneshwaran7809,MECH,student,Student,0
+7817,abishek7817@mountzion.ac.in,NULL,abishek7817,MECH,student,Student,0
+7836,dineshkumar7836@mountzion.ac.in,NULL,dineshkumar7836,MECH,student,Student,0
+7840,saravanan7840@mountzion.ac.in,NULL,saravanan7840,MECH,student,Student,0
+7849,pazhanisamy7849@mountzion.ac.in,NULL,pazhanisamy7849,MECH,student,Student,0
+7852,manikandan7852@mountzion.ac.in,NULL,manikandan7852,MECH,student,Student,0
+7857,shanmugabarathi7857@mountzion.ac.in,NULL,shanmugabarathi7857,MECH,student,Student,0
+7858,rahul7858@mountzion.ac.in,NULL,rahul7858,MECH,student,Student,0
+7865,vijay7865@mountzion.ac.in,NULL,vijay7865,MECH,student,Student,0
+7870,mohammedmusther7870@mountzion.ac.in,NULL,mohammedmusther7870,MECH,student,Student,0
+7880,balachandru7880@mountzion.ac.in,NULL,balachandru7880,MECH,student,Student,0
+7891,nethaji7891@mountzion.ac.in,NULL,nethaji7891,MECH,student,Student,0
+7965,mayalagu7965@mountzion.ac.in,NULL,MAYALAGU K,MECH,student,Student,0
+7994,vadivelu7994@mountzion.ac.in,NULL,VADIVELU S,MECH,student,Student,0
+8029,rooban8029@mountzion.ac.in,NULL,ROOBAN B,MECH,student,Student,0
+8039,shanmugam8039@mountzion.ac.in,NULL,SHANNUGAM R,MECH,student,Student,0
+8057,santhoshkumar8057@mountzion.ac.in,NULL,SANTHOSH KUMAR M,MECH,student,Student,0
+8058,tamilmani8058@mountzion.ac.in,NULL,TAMILMANI C,MECH,student,Student,0
+8092,narasimmaraja8092@mountzion.ac.in,NULL,NARASIMMARAJA BS,MECH,student,Student,0
+8095,janakiraman8095@mountzion.ac.in,NULL,JANAKIRAMAN S,MECH,student,Student,0
+8097,muthukumar8097@mountzion.ac.in,NULL,MUTHUKUMAR P,MECH,student,Student,0
+8098,mohamedjaheerulfaras8098@mountzion.ac.in,NULL,MOHAMED JAHEERUL FARAS P,MECH,student,Student,0
+8105,manikandan8105@mountzion.ac.in,NULL,MANIKANDAN R,MECH,student,Student,0
+8106,sakthivel8106@mountzion.ac.in,NULL,SAKTHIVEL P.,MECH,student,Student,0
+8108,sivalakshmanan8108@mountzion.ac.in,NULL,SIVALAKSHMANAN G.,MECH,student,Student,0
+8115,marimuthu8115@mountzion.ac.in,NULL,MARIMUTHU R,MECH,student,Student,0
+7754,janarthanan7754@mountzion.ac.in,NULL,JANARTHANAN P.,PED,student,Student,0
+7873,boominathan7873@mountzion.ac.in,NULL,BOOMINATHAN .P,PED,student,Student,0
+7695,vijayakumar7695@mountzion.ac.in,NULL,VIJAYAKUMAR S.,STE,student,Student,0
+7784,ramya7784@mountzion.ac.in,NULL,RAMYA S.,STE,student,Student,0
+7863,bharathiraja7863@mountzion.ac.in,NULL,BHARATHIRAJA P.,STE,student,Student,0
+7878,preethi7878@mountzion.ac.in,NULL,PREETHI P.,STE,student,Student,0
+7882,pavithra7882@mountzion.ac.in,NULL,PAVITHRA T.,STE,student,Student,0
+7883,tamilselvi7883@mountzion.ac.in,NULL,TAMILSELVI G.,STE,student,Student,0
+7884,mohana7884@mountzion.ac.in,NULL,MOHANA R.,STE,student,Student,0
+7886,abinaya7886@mountzion.ac.in,NULL,ABINAYA S.,STE,student,Student,0
+7888,naveenkumar7888@mountzion.ac.in,NULL,NAVEENKUMAR T.,STE,student,Student,0
+7889,gopikrishnan7889@mountzion.ac.in,NULL,GOPIKRISHNAN S.,STE,student,Student,0
+7911,kirankumar7911@mountzion.ac.in,NULL,kirankumar7911,CIVIL,student,Student,0
+7921,shanjushree7921@mountzion.ac.in,NULL,shanjushree7921,CIVIL,student,Student,0
+7928,valliammai7928@mountzion.ac.in,NULL,valliammai7928,CIVIL,student,Student,0
+7934,durga7934@mountzion.ac.in,NULL,durga7934,CIVIL,student,Student,0
+7942,kamali7942@mountzion.ac.in,NULL,kamali7942,CIVIL,student,Student,0
+7969,abirami7969@mountzion.ac.in,NULL,abirami7969,CIVIL,student,Student,0
+7979,arunkumar7979@mountzion.ac.in,NULL,arunkumar7979,CIVIL,student,Student,0
+7985,pandiselvam7985@mountzion.ac.in,NULL,pandiselvam7985,CIVIL,student,Student,0
+7995,andiyappan7995@mountzion.ac.in,NULL,andiyappan7995,CIVIL,student,Student,0
+7997,vijay7997@mountzion.ac.in,NULL,vijay7997,CIVIL,student,Student,0
+7998,ramana7998@mountzion.ac.in,NULL,ramana7998,CIVIL,student,Student,0
+8000,arunkumar8000@mountzion.ac.in,NULL,arunkumar8000,CIVIL,student,Student,0
+8016,dhanush8016@mountzion.ac.in,NULL,dhanush8016,CIVIL,student,Student,0
+8032,rajamohamed8032@mountzion.ac.in,NULL,rajamohamed8032,CIVIL,student,Student,0
+8040,sivasubramaniyan8040@mountzion.ac.in,NULL,Sivasubramaniyan,CIVIL,student,Student,0
+8042,ranjani8042@mountzion.ac.in,NULL,ranjani8042,CIVIL,student,Student,0
+8048,senthilkumar8048@mountzion.ac.in,NULL,senthilkumar8048,CIVIL,student,Student,0
+8061,aravindkumar8061@mountzion.ac.in,NULL,aravindkumar8061,CIVIL,student,Student,0
+8073,premkumar8073@mountzion.ac.in,NULL,premkumar8073,CIVIL,student,Student,0
+8075,parthasarathi8075@mountzion.ac.in,NULL,parthasarathi8075,CIVIL,student,Student,0
+8080,pravinmurugan8080@mountzion.ac.in,NULL,pravinmurugan8080,CIVIL,student,Student,0
+8127,aravindbalaji8127@mountzion.ac.in,NULL,aravindbalaji8127,CIVIL,student,Student,0
+8129,mathiyazhakan8129@mountzion.ac.in,NULL,mathiyazhakan8129,CIVIL,student,Student,0
+8158,kannadhas8158@mountzion.ac.in,NULL,kannadhas8158,CIVIL,student,Student,0
+8165,vairamuthu8165@mountzion.ac.in,NULL,vairamuthu8165,CIVIL,student,Student,0
+8168,sakthi8168@mountzion.ac.in,NULL,sakthi8168,CIVIL,student,Student,0
+8196,gowshiksuriya8196@mountzion.ac.in,NULL,gowshiksuriya8196,CIVIL,student,Student,0
+8197,alagappan8197@mountzion.ac.in,NULL,alagappan8197,CIVIL,student,Student,0
+8212,arokiarex8212@mountzion.ac.in,NULL,arokiarex8212,CIVIL,student,Student,0
+8235,sathyan8235@mountzion.ac.in,NULL,sathyan8235,CIVIL,student,Student,0
+8257,suriyakrishnan8257@mountzion.ac.in,NULL,suriyakrishnan8257,CIVIL,student,Student,0
+8258,ranjithkrishna8258@mountzion.ac.in,NULL,ranjithkrishna8258,CIVIL,student,Student,0
+8280,abdullah8280@mountzion.ac.in,NULL,abdullah8280,CIVIL,student,Student,0
+8281,janakiraman8281@mountzion.ac.in,NULL,janakiraman8281,CIVIL,student,Student,0
+8294,arumugam8294@mountzion.ac.in,NULL,arumugam8294,CIVIL,student,Student,0
+8295,monishpranav8295@mountzion.ac.in,NULL,monishpranav8295,CIVIL,student,Student,0
+8300,nagarath8300@mountzion.ac.in,NULL,nagarath8300,CIVIL,student,Student,0
+8301,hariharasudhan8301@mountzion.ac.in,NULL,hariharasudhan8301,CIVIL,student,Student,0
+8334,premkumar8334@mountzion.ac.in,NULL,premkumar8334,CIVIL,student,Student,0
+8347,mohamedajeesh8347@mountzion.ac.in,NULL,mohamedajeesh8347,CIVIL,student,Student,0
+8357,udayageethan8357@mountzion.ac.in,NULL,udayageethan8357,CIVIL,student,Student,0
+8359,mohammadharish8359@mountzion.ac.in,NULL,mohammadharish8359,CIVIL,student,Student,0
+8360,abdulrahuman8360@mountzion.ac.in,NULL,abdulrahuman8360,CIVIL,student,Student,0
+8365,abdurrahman8365@mountzion.ac.in,NULL,ABDUR RAHMAN J.,CIVIL,student,Student,0
+8368,ramkumar8368@mountzion.ac.in,NULL,ramkumar8368,CIVIL,student,Student,0
+8369,ravindran8369@mountzion.ac.in,NULL,ravindran8369,CIVIL,student,Student,0
+8373,sivaprakash8373@mountzion.ac.in,NULL,sivaprakash8373,CIVIL,student,Student,0
+8380,dinesh8380@mountzion.ac.in,NULL,dinesh8380,CIVIL,student,Student,0
+8382,Balajegan8382@mountzion.ac.in,NULL,Balajegan,CIVIL,student,Student,0
+8384,mohamedarshath8384@mountzion.ac.in,NULL,mohamedarshath8384,CIVIL,student,Student,0
+8420,pragatheeswaran8420@mountzion.ac.in,NULL,Pragatheeswaran8420,CIVIL,student,Student,0
+8422,manimaran8422@mountzion.ac.in,NULL,manimaran8422,CIVIL,student,Student,0
+8428,prasanna8428@mountzion.ac.in,NULL,Prasanna8428,CIVIL,student,Student,0
+8456,vinoth8456@mountzion.ac.in,NULL,vinoth8456,CIVIL,student,Student,0
+8459,sathyabalan8459@mountzion.ac.in,NULL,sathyabalan8459,CIVIL,student,Student,0
+8460,navaneethan8460@mountzion.ac.in,NULL,navaneethan8460,CIVIL,student,Student,0
+8469,kaviya8469@mountzion.ac.in,NULL,kaviya8469,CIVIL,student,Student,0
+8474,mohamedfazil8474@mountzion.ac.in,NULL,mohamedfazil8474,CIVIL,student,Student,0
+8477,ganesan8477@mountzion.ac.in,NULL,ganesan8477,CIVIL,student,Student,0
+8492,subbaih8492@mountzion.ac.in,NULL,subbaih8492,CIVIL,student,Student,0
+8494,mohamedrilwan8494@mountzion.ac.in,NULL,mohamedrilwan8494,CIVIL,student,Student,0
+8496,narayanan8496@mountzion.ac.in,NULL,narayanan8496,CIVIL,student,Student,0
+8511,saravanan8511@mountzion.ac.in,NULL,saravanan8511,CIVIL,student,Student,0
+8513,saravanan8513@mountzion.ac.in,NULL,saravananv8513,CIVIL,student,Student,0
+8520,surya8520@mountzion.ac.in,NULL,surya8520,CIVIL,student,Student,0
+8533,mugesh8533@mountzion.ac.in,NULL,mugesh8533,CIVIL,student,Student,0
+8538,vignesh8538@mountzion.ac.in,NULL,vignesh8538,CIVIL,student,Student,0
+8548,manikandan8548@mountzion.ac.in,NULL,manikandan8548,CIVIL,student,Student,0
+8552,sasikumar8552@mountzion.ac.in,NULL,sasikumar8552,CIVIL,student,Student,0
+8065,azhagarasi8065@mountzion.ac.in,NULL,azhagarasi8065,CS,student,Student,0
+8104,avilafrancina8104@mountzion.ac.in,NULL,avilafrancina8104,CS,student,Student,0
+7893,numaalex7893@mountzion.ac.in,NULL,numaalex7893,CSE,student,Student,0
+7894,mahalakshmi7894@mountzion.ac.in,NULL,mahalakshmi7894,CSE,student,Student,0
+7897,hamiltonantony7897@mountzion.ac.in,NULL,hamiltonantony7897,CSE,student,Student,0
+7898,antonyjeffery7898@mountzion.ac.in,NULL,antonyjeffery7898,CSE,student,Student,0
+7899,sowmya7899@mountzion.ac.in,NULL,sowmya7899,CSE,student,Student,0
+7900,vishva7900@mountzion.ac.in,NULL,vishva7900,CSE,student,Student,0
+7901,muthukrishnan7901@mountzion.ac.in,NULL,muthukrishnan7901,CSE,student,Student,0
+7903,sowmiya7903@mountzion.ac.in,NULL,sowmiya7903,CSE,student,Student,0
+7904,senthilraja7904@mountzion.ac.in,NULL,senthilraja7904,CSE,student,Student,0
+7905,karpakam7905@mountzion.ac.in,NULL,karpakam7905,CSE,student,Student,0
+7906,suriyalakshmi7906@mountzion.ac.in,NULL,suriyalakshmi7906,CSE,student,Student,0
+7907,santhosh7907@mountzion.ac.in,NULL,santhosh7907,CSE,student,Student,0
+7908,suriya7908@mountzion.ac.in,NULL,suriya7908,CSE,student,Student,0
+7909,pathmesh7909@mountzion.ac.in,NULL,pathmesh7909,CSE,student,Student,0
+7910,balasubramanian7910@mountzion.ac.in,NULL,balasubramanian7910,CSE,student,Student,0
+7912,kabiskaan7912@mountzion.ac.in,NULL,kabiskaan7912,CSE,student,Student,0
+7912,kabiskaan.m7912@mountzion.ac.in,NULL,KABISKAAN.M,CSE,student,Student,0
+7913,gururaj7913@mountzion.ac.in,NULL,gururaj7913,CSE,student,Student,0
+7914,tamilselvan7914@mountzion.ac.in,NULL,tamilselvan7914,CSE,student,Student,0
+7915,mageswari7915@mountzion.ac.in,NULL,mageswari7915,CSE,student,Student,0
+7916,srinisha7916@mountzion.ac.in,NULL,srinisha7916,CSE,student,Student,0
+7917,rushyanthan7917@mountzion.ac.in,NULL,rushyanthan7917,CSE,student,Student,0
+7919,gayathri7919@mountzion.ac.in,NULL,gayathri7919,CSE,student,Student,0
+7920,devadharshini7920@mountzion.ac.in,NULL,devadharshini7920,CSE,student,Student,0
+7923,alamelu7923@mountzion.ac.in,NULL,alamelu7923,CSE,student,Student,0
+7925,vanchinathan7925@mountzion.ac.in,NULL,vanchinathan7925,CSE,student,Student,0
+7926,rohith7926@mountzion.ac.in,NULL,rohith7926,CSE,student,Student,0
+7927,kalapriyadharshini7927@mountzion.ac.in,NULL,kalapriyadharshini7927,CSE,student,Student,0
+7930,solairaja.g7930@mountzion.ac.in,NULL,solairaja.g7930,CSE,student,Student,0
+7932,robinderik7932@mountzion.ac.in,NULL,robinderik7932,CSE,student,Student,0
+7935,reemaafshan7935@mountzion.ac.in,NULL,reemaafshan7935,CSE,student,Student,0
+7936,hariharan7936@mountzion.ac.in,NULL,hariharan7936,CSE,student,Student,0
+7937,saravanan7937@mountzion.ac.in,NULL,saravanan7937,CSE,student,Student,0
+7938,nithiskumar7938@mountzion.ac.in,NULL,nithiskumar7938,CSE,student,Student,0
+7940,sivasakthi7940@mountzion.ac.in,NULL,sivasakthi7940,CSE,student,Student,0
+7941,vasudevan7941@mountzion.ac.in,NULL,vasudevan7941,CSE,student,Student,0
+7943,vanishri7943@mountzion.ac.in,NULL,vanishri7943,CSE,student,Student,0
+7944,vaishnavi7944@mountzion.ac.in,NULL,vaishnavi7944,CSE,student,Student,0
+7945,devarajkumar7945@mountzion.ac.in,NULL,devarajkumar7945,CSE,student,Student,0
+7948,mohamedashik7948@mountzion.ac.in,NULL,mohamedashik7948,CSE,student,Student,0
+7949,hariprasath7949@mountzion.ac.in,NULL,hariprasath7949,CSE,student,Student,0
+7953,ikram7953@mountzion.ac.in,NULL,ikram7953,CSE,student,Student,0
+7957,karunakaran7957@mountzion.ac.in,NULL,karunakaran7957,CSE,student,Student,0
+7958,subasri7958@mountzion.ac.in,NULL,subasri7958,CSE,student,Student,0
+7959,sindhuja7959@mountzion.ac.in,NULL,sindhuja7959,CSE,student,Student,0
+7960,samjoice7960@mountzion.ac.in,NULL,samjoice7960,CSE,student,Student,0
+7961,mohamednizar7961@mountzion.ac.in,NULL,mohamednizar7961,CSE,student,Student,0
+7964,aravindkannan7964@mountzion.ac.in,NULL,aravindkannan7964,CSE,student,Student,0
+7966,yuvasri7966@mountzion.ac.in,NULL,yuvasri7966,CSE,student,Student,0
+7968,soundariya7968@mountzion.ac.in,NULL,soundariya7968,CSE,student,Student,0
+7973,jaleelmohamed7973@mountzion.ac.in,NULL,jaleelmohamed7973,CSE,student,Student,0
+7978,sharafathzulfiah7978@mountzion.ac.in,NULL,sharafathzulfiah7978,CSE,student,Student,0
+7986,sowmiya7986@mountzion.ac.in,NULL,sowmiya7986,CSE,student,Student,0
+7987,sarathbabu7987@mountzion.ac.in,NULL,sarathbabu7987,CSE,student,Student,0
+7989,arthiga7989@mountzion.ac.in,NULL,arthiga7989,CSE,student,Student,0
+8001,jothika8001@mountzion.ac.in,NULL,jothika8001,CSE,student,Student,0
+8002,pragathy8002@mountzion.ac.in,NULL,pragathy8002,CSE,student,Student,0
+8005,maharaj8005@mountzion.ac.in,NULL,maharaj8005,CSE,student,Student,0
+8009,deepashri8009@mountzion.ac.in,NULL,DEEPASHRI S.,CSE,student,Student,0
+8009,deepasri8009@mountzion.ac.in,NULL,deepasri8009,CSE,student,Student,0
+8010,veeadharshini8010@mountzion.ac.in,NULL,veeadharshini8010,CSE,student,Student,0
+8018,sribarathi8018@mountzion.ac.in,NULL,sribarathi8018,CSE,student,Student,0
+8019,prakash8019@mountzion.ac.in,NULL,prakash8019,CSE,student,Student,0
+8020,arthi8020@mountzion.ac.in,NULL,arthi8020,CSE,student,Student,0
+8021,rishika8021@mountzion.ac.in,NULL,rishika8021,CSE,student,Student,0
+8022,anandhakumar8022@mountzion.ac.in,NULL,anandhakumar8022,CSE,student,Student,0
+8024,brindhadevi8024@mountzion.ac.in,NULL,brindhadevi8024,CSE,student,Student,0
+8026,semila8026@mountzion.ac.in,NULL,semila8026,CSE,student,Student,0
+8031,pothimani8031@mountzion.ac.in,NULL,pothimani8031,CSE,student,Student,0
+8038,syedabdulrahman8038@mountzion.ac.in,NULL,syedabdulrahman8038,CSE,student,Student,0
+8045,nisanth8045@mountzion.ac.in,NULL,nisanth8045,CSE,student,Student,0
+8047,dinesh8047@mountzion.ac.in,NULL,dinesh8047,CSE,student,Student,0
+8049,kaviya8049@mountzion.ac.in,NULL,kaviya8049,CSE,student,Student,0
+8052,sneka8052@mountzion.ac.in,NULL,sneka8052,CSE,student,Student,0
+8055,kalaivarshini8055@mountzion.ac.in,NULL,kalaivarshini8055,CSE,student,Student,0
+8056,naveenkumar8056@mountzion.ac.in,NULL,naveenkumar8056,CSE,student,Student,0
+8062,gokul8062@mountzion.ac.in,NULL,gokul8062,CSE,student,Student,0
+8064,rajesh8064@mountzion.ac.in,NULL,rajesh8064,CSE,student,Student,0
+8067,josemerlin8067@mountzion.ac.in,NULL,josemerlin8067,CSE,student,Student,0
+8068,nandhagopal8068@mountzion.ac.in,NULL,nandhagopal8068,CSE,student,Student,0
+8072,mohamedsuhail8072@mountzion.ac.in,NULL,mohamedsuhail8072,CSE,student,Student,0
+8076,ajaysurya8076@mountzion.ac.in,NULL,ajaysurya8076,CSE,student,Student,0
+8077,vijayalakshmi8077@mountzion.ac.in,NULL,vijayalakshmi8077,CSE,student,Student,0
+8078,mohamedsameerkhan8078@mountzion.ac.in,NULL,mohamedsameerkhan8078,CSE,student,Student,0
+8082,karuppaiah8082@mountzion.ac.in,NULL,karuppaiah8082,CSE,student,Student,0
+8083,elavarasan8083@mountzion.ac.in,NULL,elavarasan8083,CSE,student,Student,0
+8085,sreeponni8085@mountzion.ac.in,NULL,sreeponni8085,CSE,student,Student,0
+8088,sowmiya8088@mountzion.ac.in,NULL,sowmiya8088,CSE,student,Student,0
+8090,priyadharshini8090@mountzion.ac.in,NULL,priyadharshini8090,CSE,student,Student,0
+8101,premshagar8101@mountzion.ac.in,NULL,premshagar8101,CSE,student,Student,0
+8109,madhavan8109@mountzion.ac.in,NULL,madhavan8109,CSE,student,Student,0
+8112,satheeshkumar8112@mountzion.ac.in,NULL,satheeshkumar8112,CSE,student,Student,0
+8118,harichandran8118@mountzion.ac.in,NULL,harichandran8118,CSE,student,Student,0
+8120,keerthi8120@mountzion.ac.in,NULL,keerthi8120,CSE,student,Student,0
+8121,vanathi8121@mountzion.ac.in,NULL,vanathi8121,CSE,student,Student,0
+8122,mohamedajmalkhan8122@mountzion.ac.in,NULL,mohamedajmalkhan8122,CSE,student,Student,0
+8123,sithivinayagam8123@mountzion.ac.in,NULL,sithivinayagam8123,CSE,student,Student,0
+8189,guganeshwar8189@mountzion.ac.in,NULL,guganeshwar8189,CSE,student,Student,0
+8240,velayutham8240@mountzion.ac.in,NULL,velayutham8240,CSE,student,Student,0
+8289,manikandan8289@mountzion.ac.in,NULL,manikandan8289,CSE,student,Student,0
+8328,nathan8328@mountzion.ac.in,NULL,nathan8328,CSE,student,Student,0
+8329,rajapandi8329@mountzion.ac.in,NULL,rajapandi8329,CSE,student,Student,0
+8363,sudharsan8363@mountzion.ac.in,NULL,sudharsan8363,CSE,student,Student,0
+8378,guruaravind8378@mountzion.ac.in,NULL,GURUARAVIND S,CSE,student,Student,0
+8378,guruaravinth8378@mountzion.ac.in,NULL,guruaravinth8378,CSE,student,Student,0
+8388,baskarkrishna8388@mountzion.ac.in,NULL,baskarkrishna8388,CSE,student,Student,0
+8415,muthu8415@mountzion.ac.in,NULL,Muthu8415,CSE,student,Student,0
+8441,jayaakash8441@mountzion.ac.in,NULL,jayaakash8441,CSE,student,Student,0
+8453,nantha8453@mountzion.ac.in,NULL,Nantha8453,CSE,student,Student,0
+8482,manikandan8482@mountzion.ac.in,NULL,manikandan8482,CSE,student,Student,0
+8491,sivasubramaniam8491@mountzion.ac.in,NULL,sivasubramaniam8491,CSE,student,Student,0
+8494,harisakthi8494@mountzion.ac.in,NULL,harisakthi8494,CSE,student,Student,0
+8543,ragulkannan8543@mountzion.ac.in,NULL,ragulkannan8543,CSE,student,Student,0
+8557,liyashini8557@mountzion.ac.in,NULL,liyashini8557,CSE,student,Student,0
+8622,sarmila8622@mountzion.ac.in,NULL,sarmila8622,CSE,student,Student,0
+8126,vijayan8126@mountzion.ac.in,NULL,VIJAYAN S,ECE,student,Student,0
+7895,azhagappan7895@mountzion.ac.in,NULL,azhagappan7895,ECE,student,Student,0
+7922,karthickayan7922@mountzion.ac.in,NULL,karthickayan7922,ECE,student,Student,0
+7929,jumanahassin7929@mountzion.ac.in,NULL,jumanahassin7929,ECE,student,Student,0
+7931,selvameenal7931@mountzion.ac.in,NULL,selvameenal7931,ECE,student,Student,0
+7946,abirami7946@mountzion.ac.in,NULL,abirami7946,ECE,student,Student,0
+7947,abdulhaiyum7947@mountzion.ac.in,NULL,abdulhaiyum7947,ECE,student,Student,0
+7954,balakumaran7954@mountzion.ac.in,NULL,balakumaran7954,ECE,student,Student,0
+7976,reenavigneswari7976@mountzion.ac.in,NULL,reenavigneswari7976,ECE,student,Student,0
+7984,solai7984@mountzion.ac.in,NULL,solai7984,ECE,student,Student,0
+8003,jones8003@mountzion.ac.in,NULL,jones8003,ECE,student,Student,0
+8008,laveenavarshini8008@mountzion.ac.in,NULL,laveenavarshini8008,ECE,student,Student,0
+8012,aravinth8012@mountzion.ac.in,NULL,aravinth8012,ECE,student,Student,0
+8023,yasararafat8023@mountzion.ac.in,NULL,yasararafat8023,ECE,student,Student,0
+8063,anishfathima8063@mountzion.ac.in,NULL,anishfathima8063,ECE,student,Student,0
+8066,anbalagan8066@mountzion.ac.in,NULL,anbalagan8066,ECE,student,Student,0
+8074,ebisaran8074@mountzion.ac.in,NULL,ebisaran8074,ECE,student,Student,0
+8079,abdulbasith8079@mountzion.ac.in,NULL,abdulbasith8079,ECE,student,Student,0
+8089,mahendran8089@mountzion.ac.in,NULL,mahendran8089,ECE,student,Student,0
+8125,vikram8125@mountzion.ac.in,NULL,vikram8125,ECE,student,Student,0
+8204,difna8204@mountzion.ac.in,NULL,difna8204,ECE,student,Student,0
+8222,mahadeermohamed8222@mountzion.ac.in,NULL,mahadeermohamed8222,ECE,student,Student,0
+8252,bairavi8252@mountzion.ac.in,NULL,bairavi8252,ECE,student,Student,0
+8253,sindhu8253@mountzion.ac.in,NULL,sindhu8253,ECE,student,Student,0
+8348,mohamedkalifa8348@mountzion.ac.in,NULL,mohamedkalifa8348,ECE,student,Student,0
+8366,chinnakaruppan8366@mountzion.ac.in,NULL,chinnakaruppan8366,ECE,student,Student,0
+8389,rajkumar8389@mountzion.ac.in,NULL,RAJKUMAR8389,ECE,student,Student,0
+8394,kirthickrosan8394@mountzion.ac.in,NULL,kirthickrosan8394,ECE,student,Student,0
+8455,sherifnawas8455@mountzion.ac.in,NULL,sherifnawas8455,ECE,student,Student,0
+8467,raja8467@mountzion.ac.in,NULL,raja8467,ECE,student,Student,0
+8549,venkatesh8549@mountzion.ac.in,NULL,venkatesh8549,ECE,student,Student,0
+7939,nithishkumar7939@mountzion.ac.in,NULL,nithishkumar7939,EEE,student,Student,0
+8013,rajkumar8013@mountzion.ac.in,NULL,rajkumar8013,EEE,student,Student,0
+8028,nithishkumar8028@mountzion.ac.in,NULL,nithishkumar8028,EEE,student,Student,0
+8059,visnuraj8059@mountzion.ac.in,NULL,visnuraj8059,EEE,student,Student,0
+8131,nitheskumar8131@mountzion.ac.in,NULL,nitheskumar8131,EEE,student,Student,0
+8144,sooriyaprakash8144@mountzion.ac.in,NULL,sooriyaprakash8144,EEE,student,Student,0
+8145,nithishkumar8145@mountzion.ac.in,NULL,nithishkumar8145,EEE,student,Student,0
+8149,mukeshkumar8149@mountzion.ac.in,NULL,mukeshkumar8149,EEE,student,Student,0
+8173,manikandan8173@mountzion.ac.in,NULL,manikandan8173,EEE,student,Student,0
+8182,ayyappan8182@mountzion.ac.in,NULL,ayyappan8182,EEE,student,Student,0
+8187,srimahalingam8187@mountzion.ac.in,NULL,srimahalingam8187,EEE,student,Student,0
+8193,aakash8193@mountzion.ac.in,NULL,aakash8193,EEE,student,Student,0
+8213,byreshwaran8213@mountzion.ac.in,NULL,byreshwaran8213,EEE,student,Student,0
+8216,muruganatham8216@mountzion.ac.in,NULL,muruganatham8216,EEE,student,Student,0
+8218,vijayakumar8218@mountzion.ac.in,NULL,vijayakumar8218,EEE,student,Student,0
+8229,devaraj8229@mountzion.ac.in,NULL,devaraj8229,EEE,student,Student,0
+8230,balasubramanian8230@mountzion.ac.in,NULL,balasubramanian8230,EEE,student,Student,0
+8248,eswaran8248@mountzion.ac.in,NULL,eswaran8248,EEE,student,Student,0
+8249,sakthivel8249@mountzion.ac.in,NULL,sakthivel8249,EEE,student,Student,0
+8250,dhineshkumar8250@mountzion.ac.in,NULL,dhineshkumar8250,EEE,student,Student,0
+8276,rajkumar8276@mountzion.ac.in,NULL,rajkumar8276,EEE,student,Student,0
+8279,mohamedafridi8279@mountzion.ac.in,NULL,mohamedafridi8279,EEE,student,Student,0
+8286,vasanth8286@mountzion.ac.in,NULL,vasanth8286,EEE,student,Student,0
+8293,vigneswaran8293@mountzion.ac.in,NULL,vigneswaran8293,EEE,student,Student,0
+8312,ranjith8312@mountzion.ac.in,NULL,ranjith8312,EEE,student,Student,0
+8314,mohamedanas8314@mountzion.ac.in,NULL,mohamedanas8314,EEE,student,Student,0
+8320,manimaran8320@mountzion.ac.in,NULL,manimaran8320,EEE,student,Student,0
+8332,mugeshkannan8332@mountzion.ac.in,NULL,mugeshkannan8332,EEE,student,Student,0
+8340,krishna8340@mountzion.ac.in,NULL,krishna8340,EEE,student,Student,0
+8349,sivanesan8349@mountzion.ac.in,NULL,sivanesan8349,EEE,student,Student,0
+8350,balaji8350@mountzion.ac.in,NULL,balaji8350,EEE,student,Student,0
+8354,kesavan8354@mountzion.ac.in,NULL,kesavan8354,EEE,student,Student,0
+8367,sachin8367@mountzion.ac.in,NULL,"sachin8367, 20EEE8367",EEE,student,Student,0
+8371,saravanan8371@mountzion.ac.in,NULL,saravanan8371,EEE,student,Student,0
+8383,manojkumar8383@mountzion.ac.in,NULL,manojkumar8383,EEE,student,Student,0
+8409,kathiresan8409@mountzion.ac.in,NULL,kathiresan8409,EEE,student,Student,0
+8412,devaraaghavan8412@mountzion.ac.in,NULL,Devaraaghavan8412,EEE,student,Student,0
+8418,abinesh8418@mountzion.ac.in,NULL,abinesh8418,EEE,student,Student,0
+8435,peterpandian8435@mountzion.ac.in,NULL,peterpandian8435,EEE,student,Student,0
+8442,arivazhagan8442@mountzion.ac.in,NULL,Arivazhagan8442,EEE,student,Student,0
+8443,loganathan8443@mountzion.ac.in,NULL,Loganathan8443,EEE,student,Student,0
+8450,yogeshwaran8450@mountzion.ac.in,NULL,yogeshwaran8450,EEE,student,Student,0
+8468,srihariharan8468@mountzion.ac.in,NULL,Srihariharan8468,EEE,student,Student,0
+8480,navinkumar8480@mountzion.ac.in,NULL,navin kumar8480,EEE,student,Student,0
+8487,vinitha8487@mountzion.ac.in,NULL,vinitha8487,EEE,student,Student,0
+8517,prasannaram8517@mountzion.ac.in,NULL,prasannaram8517,EEE,student,Student,0
+8526,manoj8526@mountzion.ac.in,NULL,manoj8526,EEE,student,Student,0
+8529,manikandan8529@mountzion.ac.in,NULL,manikandan8529,EEE,student,Student,0
+8532,abdulhammed8532@mountzion.ac.in,NULL,abdulhammed8532,EEE,student,Student,0
+8535,abinesh8535@mountzion.ac.in,NULL,abinesh8535,EEE,student,Student,0
+8575,fayazahamed8575@mountzion.ac.in,NULL,fayaz ahamed8575,EEE,student,Student,0
+8609,ganesh8609@mountzion.ac.in,NULL,ganesh8609,EEE,student,Student,0
+7896,ganagaraj7896@mountzion.ac.in,NULL,ganagaraj7896,MECH,student,Student,0
+7902,kanagaraj7902@mountzion.ac.in,NULL,kanagaraj7902,MECH,student,Student,0
+7924,kalainithi7924@mountzion.ac.in,NULL,kalainithi7924,MECH,student,Student,0
+7933,vignesh7933@mountzion.ac.in,NULL,vignesh7933,MECH,student,Student,0
+7952,pandidurai7952@mountzion.ac.in,NULL,pandidurai7952,MECH,student,Student,0
+7967,sundarapandi7967@mountzion.ac.in,NULL,sundarapandi7967,MECH,student,Student,0
+7971,alagusudharsanan7971@mountzion.ac.in,NULL,alagusudharsanan7971,MECH,student,Student,0
+7977,jayasuriya7977@mountzion.ac.in,NULL,jayasuriya7977,MECH,student,Student,0
+7981,tamilmani7981@mountzion.ac.in,NULL,tamilmani7981,MECH,student,Student,0
+7983,muthupandi7983@mountzion.ac.in,NULL,muthupandi7983,MECH,student,Student,0
+8004,nirvansudhakar8004@mountzion.ac.in,NULL,nirvansudhakar8004,MECH,student,Student,0
+8006,mahendran8006@mountzion.ac.in,NULL,mahendran8006,MECH,student,Student,0
+8011,sudharsan8011@mountzion.ac.in,NULL,sudharsan8011,MECH,student,Student,0
+8014,mohamedashik8014@mountzion.ac.in,NULL,mohamedashik8014,MECH,student,Student,0
+8037,harish8037@mountzion.ac.in,NULL,harish8037,MECH,student,Student,0
+8041,nagarajan8041@mountzion.ac.in,NULL,nagarajan8041,MECH,student,Student,0
+8050,maran8050@mountzion.ac.in,NULL,maran8050,MECH,student,Student,0
+8051,rajkumar8051@mountzion.ac.in,NULL,rajkumar8051,MECH,student,Student,0
+8053,darvinbrabu8053@mountzion.ac.in,NULL,darvinbrabu8053,MECH,student,Student,0
+8069,dhatchanamoorthy8069@mountzion.ac.in,NULL,dhatchanamoorthy8069,MECH,student,Student,0
+8070,vasanth8070@mountzion.ac.in,NULL,vasanth8070,MECH,student,Student,0
+8071,ramamoorthy8071@mountzion.ac.in,NULL,ramamoorthy8071,MECH,student,Student,0
+8114,sivaramakrishnan8114@mountzion.ac.in,NULL,sivaramakrishnan8114,MECH,student,Student,0
+8119,mukeshkanna8119@mountzion.ac.in,NULL,mukeshkanna8119,MECH,student,Student,0
+8128,santhosh8128@mountzion.ac.in,NULL,santhosh8128,MECH,student,Student,0
+8130,dharmaraj8130@mountzion.ac.in,NULL,dharmaraj8130,MECH,student,Student,0
+8133,charlesbala8133@mountzion.ac.in,NULL,charlesbala8133,MECH,student,Student,0
+8136,aravind8136@mountzion.ac.in,NULL,aravind8136,MECH,student,Student,0
+8142,shanmugaraja8142@mountzion.ac.in,NULL,shanmugaraja8142,MECH,student,Student,0
+8143,mayalagu8143@mountzion.ac.in,NULL,mayalagu8143,MECH,student,Student,0
+8155,sathaiah8155@mountzion.ac.in,NULL,sathaiah8155,MECH,student,Student,0
+8156,akash8156@mountzion.ac.in,NULL,akash8156,MECH,student,Student,0
+8177,arunkumar8177@mountzion.ac.in,NULL,arunkumar8177,MECH,student,Student,0
+8178,lakshmanakumar8178@mountzion.ac.in,NULL,lakshmanakumar8178,MECH,student,Student,0
+8185,vengatesan8185@mountzion.ac.in,NULL,vengatesan8185,MECH,student,Student,0
+8191,dhilipraj8191@mountzion.ac.in,NULL,dhilipraj8191,MECH,student,Student,0
+8192,aswin8192@mountzion.ac.in,NULL,aswin8192,MECH,student,Student,0
+8198,santhakumar8198@mountzion.ac.in,NULL,santhakumar8198,MECH,student,Student,0
+8200,muthukannu8200@mountzion.ac.in,NULL,muthukannu8200,MECH,student,Student,0
+8203,yoganathan8203@mountzion.ac.in,NULL,yoganathan8203,MECH,student,Student,0
+8207,pavithran8207@mountzion.ac.in,NULL,pavithran8207,MECH,student,Student,0
+8210,santhoshsamraj8210@mountzion.ac.in,NULL,santhoshsamraj8210,MECH,student,Student,0
+8215,nagarajan8215@mountzion.ac.in,NULL,nagarajan8215,MECH,student,Student,0
+8217,manikandan8217@mountzion.ac.in,NULL,manikandan8217,MECH,student,Student,0
+8219,rooban8219@mountzion.ac.in,NULL,rooban8219,MECH,student,Student,0
+8224,kabilan8224@mountzion.ac.in,NULL,kabilan8224,MECH,student,Student,0
+8228,vijayavarman8228@mountzion.ac.in,NULL,vijayavarman8228,MECH,student,Student,0
+8304,hariharan8304@mountzion.ac.in,NULL,hariharan8304,MECH,student,Student,0
+8308,manikandan8308@mountzion.ac.in,NULL,manikandan8308,MECH,student,Student,0
+8311,ramsarathkumar8311@mountzion.ac.in,NULL,ramsarathkumar8311,MECH,student,Student,0
+8318,shajakhan8318@mountzion.ac.in,NULL,shajakhan8318,MECH,student,Student,0
+8326,arunmoorthy8326@mountzion.ac.in,NULL,arunmoorthy8326,MECH,student,Student,0
+8327,preamkumar8327@mountzion.ac.in,NULL,preamkumar8327,MECH,student,Student,0
+8330,rajaram8330@mountzion.ac.in,NULL,rajaram8330,MECH,student,Student,0
+8333,rengasrinivasan8333@mountzion.ac.in,NULL,rengasrinivasan8333,MECH,student,Student,0
+8336,saravanakumar8836@mountzion.ac.in,NULL,saravanakumar8836,MECH,student,Student,0
+8337,abinashragul8337@mountzion.ac.in,NULL,abinashragul8337,MECH,student,Student,0
+8338,arockiyapraveen8338@mountzion.ac.in,NULL,arockiyapraveen8338,MECH,student,Student,0
+8342,nixon8342@mountzion.ac.in,NULL,nixon8342,MECH,student,Student,0
+8344,yuvaraj8344@mountzion.ac.in,NULL,yuvaraj8344,MECH,student,Student,0
+8346,sathiya8346@mountzion.ac.in,NULL,sathiya8346,MECH,student,Student,0
+8351,abduljasim8351@mountzion.ac.in,NULL,abduljasim8351,MECH,student,Student,0
+8353,karthigeyan8353@mountzion.ac.in,NULL,karthigeyan8353,MECH,student,Student,0
+8356,eswarapandiyan8356@mountzion.ac.in,NULL,eswarapandiyan8356,MECH,student,Student,0
+8361,praveenkumar8361@mountzion.ac.in,NULL,praveenkumar8361,MECH,student,Student,0
+8362,hariraj8362@mountzion.ac.in,NULL,hariraj8362,MECH,student,Student,0
+8364,vignesh8364@mountzion.ac.in,NULL,vignesh8364,MECH,student,Student,0
+8376,srihari8376@mountzion.ac.in,NULL,srihari8376,MECH,student,Student,0
+8457,palaniappan8457@mountzion.ac.in,NULL,palaniappan8457,MECH,student,Student,0
+8461,jeroenlobes@mountzion.ac.in,NULL,jeroenlobes,MECH,student,Student,0
+8479,ashokkumar8479@mountzion.ac.in,NULL,ashokkumar8479,MECH,student,Student,0
+8485,lakshmanan8485@mountzion.ac.in,NULL,lakshmanan8485,MECH,student,Student,0
+8490,karthikeyan8490@mountzion.ac.in,NULL,karthikeyan8490,MECH,student,Student,0
+8493,muthukumar8493@mountzion.ac.in,NULL,muthukumar8493,MECH,student,Student,0
+8505,thameemulansari8505@mountzion.ac.in,NULL,thameemulansari8505,MECH,student,Student,0
+8537,sureshbabu8537@mountzion.ac.in,NULL,sureshbabu8537,MECH,student,Student,0
+8007,kruthiga8007@mountzion.ac.in,NULL,kruthiga8007,PED,student,Student,0
+7918,gunasri7918@mountzion.ac.in,NULL,gunasri7918,STE,student,Student,0
+8087,karthickraja8087@mountzion.ac.in,NULL,karthickraja8087,STE,student,Student,0
+8141,akash8141@mountzion.ac.in,NULL,AKASH T.,CIVIL,student,Student,0
+8152,manokaran8152@mountzion.ac.in,NULL,MANOKARAN A.,CIVIL,student,Student,0
+8163,mohamedyousuf8163@mountzion.ac.in,NULL,MOHAMEDYOUSUF S,CIVIL,student,Student,0
+8167,lalithprasanth8167@mountzion.ac.in,NULL,LALITHPRASANTH M.,CIVIL,student,Student,0
+8220,manikandan8220@mountzion.ac.in,NULL,MANIKANDAN M,CIVIL,student,Student,0
+8237,manikandan8237@mountzion.ac.in,NULL,MANIKANDAN M,CIVIL,student,Student,0
+8243,periyasamy8243@mountzion.ac.in,NULL,PERIYASAMY M.,CIVIL,student,Student,0
+8244,hariharan8244@mountzion.ac.in,NULL,HARIHARAN S.,CIVIL,student,Student,0
+8260,abirami8260@mountzion.ac.in,NULL,ABIRAMI P.,CIVIL,student,Student,0
+8271,rajkumar8271@mountzion.ac.in,NULL,RAJKUMAR J.,CIVIL,student,Student,0
+8299,vijayan8299@mountzion.ac.in,NULL,VIJAYAN M,CIVIL,student,Student,0
+8321,guganathan8321@mountzion.ac.in,NULL,GUGANATHAN S,CIVIL,student,Student,0
+8335,thenmozhi8335@mountzion.ac.in,NULL,THENMOZHI R.V.,CIVIL,student,Student,0
+8341,sundareswaran8341@mountzion.ac.in,NULL,SUNDARESWARAN P,CIVIL,student,Student,0
+8352,sivabalan8352@mountzion.ac.in,NULL,SIVABALAN M,CIVIL,student,Student,0
+8372,praveenraj8372@mountzion.ac.in,NULL,PRAVEENRAJ,CIVIL,student,Student,0
+8373,sivaparakash8373@mountzion.ac.in,NULL,SIVAPRAKASH T.,CIVIL,student,Student,0
+8375,sheikmisal8375@mountzion.ac.in,NULL,SHEIK MISAL M.,CIVIL,student,Student,0
+8387,hariharan8387@mountzion.ac.in,NULL,HARIHARAN S,CIVIL,student,Student,0
+8423,priyadharshini8423@mountzion.ac.in,NULL,PRIYADHARSHINI S.,CIVIL,student,Student,0
+8429,mukilan8429@mountzion.ac.in,NULL,MUKILAN V,CIVIL,student,Student,0
+8444,hemamalini8444@mountzion.ac.in,NULL,HEMAMALINI P,CIVIL,student,Student,0
+8488,kamali8488@mountzion.ac.in,NULL,KAMALI K.,CIVIL,student,Student,0
+8503,santhosh8503@mountzion.ac.in,NULL,SANTHOSH V,CIVIL,student,Student,0
+8527,vanitha8527@mountzion.ac.in,NULL,VANITHA P,CIVIL,student,Student,0
+8564,mukesh8564@mountzion.ac.in,NULL,MUKESH M,CIVIL,student,Student,0
+8572,kavinkarthick8572@mountzion.ac.in,NULL,KAVINKARTHICK P,CIVIL,student,Student,0
+8596,priyaadharshini8596@mountzion.ac.in,NULL,PRIYAADHARSHINI N.,CIVIL,student,Student,0
+8603,joelmoses8603@mountzion.ac.in,NULL,JOELMOSES J.,CIVIL,student,Student,0
+8611,bharathi8611@mountzion.ac.in,NULL,BHARATHI M.,CIVIL,student,Student,0
+8612,severenesharon8612@mountzion.ac.in,NULL,SEVERENESHARON X.,CIVIL,student,Student,0
+8613,sanjay8613@mountzion.ac.in,NULL,SANJAY R.,CIVIL,student,Student,0
+8619,priyadharshini8619@mountzion.ac.in,NULL,PRIYADHARSHINI D.,CIVIL,student,Student,0
+8205,subabharathi8205@mountzion.ac.in,NULL,SUBABHARATHI T,CSE,student,Student,0
+8278,mathivathani8278@mountzion.ac.in,NULL,MATHIVATHANI S.,CSE,student,Student,0
+8284,dineshkumar8284@mountzion.ac.in,NULL,DINESHKUMAR D,CSE,student,Student,0
+8414,varunraj8414@mountzion.ac.in,NULL,VARUNRAJ B,CSE,student,Student,0
+8417,nivetha8417@mountzion.ac.in,NULL,NIVETHA R.,CSE,student,Student,0
+8430,karthiha8430@mountzion.ac.in,NULL,KARTHIHA M,CSE,student,Student,0
+8439,usha8439@mountzion.ac.in,NULL,USHA PL.,CSE,student,Student,0
+8454,dharhini8454@mountzion.ac.in,NULL,DHARHINI T.,CSE,student,Student,0
+8471,selvinraj8471@mountzion.ac.in,NULL,SELVIN RAJ P.,CSE,student,Student,0
+8508,suryavarshini8508@mountzion.ac.in,NULL,SURYAVARSHINI K,CSE,student,Student,0
+8139,afrinfathima8139@mountzion.ac.in,NULL,AFRINFATHIMA A,CSE,student,Student,0
+8146,sowmiya8146@mountzion.ac.in,NULL,SOWMIYA R.,CSE,student,Student,0
+8154,viswasari8154@mountzion.ac.in,NULL,VISWASARI R.,CSE,student,Student,0
+8157,nagarjun8157@mountzion.ac.in,NULL,NAGARJUN M,CSE,student,Student,0
+8159,chandru8159@mountzion.ac.in,NULL,CHANDRU P,CSE,student,Student,0
+8162,meghalakshmi8162@mountzion.ac.in,NULL,MEGHA LAKSHMI C,CSE,student,Student,0
+8169,ganeshraj8169@mountzion.ac.in,NULL,GANESHRAJ G.,CSE,student,Student,0
+8170,durgalakshmi8170@mountzion.ac.in,NULL,DURGALAKSHMI M.,CSE,student,Student,0
+8172,alagusundari8172@mountzion.ac.in,NULL,ALAGUSUNDARI C.,CSE,student,Student,0
+8174,sivasundar8174@mountzion.ac.in,NULL,SIVASUNDAR K.,CSE,student,Student,0
+8175,dhanaviruksha8175@mountzion.ac.in,NULL,DHANA VIRUKSHA S,CSE,student,Student,0
+8179,sharvesh8179@mountzion.ac.in,NULL,SHARVESH CP.,CSE,student,Student,0
+8180,madhanchithambaram8180@mountzion.ac.in,NULL,MADHAN CHITHAMBARAM N.,CSE,student,Student,0
+8181,swetha8181@mountzion.ac.in,NULL,SWETHA R.A,CSE,student,Student,0
+8184,vigneswaran8184@mountzion.ac.in,NULL,VIGNESWARAN A.,CSE,student,Student,0
+8188,gnanaprakash8188@mountzion.ac.in,NULL,GNANAPRAKASH G.,CSE,student,Student,0
+8190,rajahshreer8190@mountzion.ac.in,NULL,RAJAHSHREE R.,CSE,student,Student,0
+8199,sriram8199@mountzion.ac.in,NULL,SRIRAM .G,CSE,student,Student,0
+8211,udhayakumar8211@mountzion.ac.in,NULL,UDHAYAKUMAR R.,CSE,student,Student,0
+8214,devi8214@mountzion.ac.in,NULL,DEVI P,CSE,student,Student,0
+8221,manisankar8221@mountzion.ac.in,NULL,MANI SANKAR .K,CSE,student,Student,0
+8223,vidhya8223@mountzion.ac.in,NULL,VIDHYA P,CSE,student,Student,0
+8226,jasminepetrecia8226@mountzion.ac.in,NULL,JASMINE PETRECIA B,CSE,student,Student,0
+8238,vinitha8238@mountzion.ac.in,NULL,VINITHA SK,CSE,student,Student,0
+8239,gayathri8239@mountzion.ac.in,NULL,GAYATHRI M.,CSE,student,Student,0
+8245,varalakshmi8245@mountzion.ac.in,NULL,VARALAKSHMI S.,CSE,student,Student,0
+8246,deepakkumar8246@mountzion.ac.in,NULL,DEEPAKKUMAR P,CSE,student,Student,0
+8251,jeevananthan8251@mountzion.ac.in,NULL,JEEVANANTHAN C.,CSE,student,Student,0
+8256,kogila8256@mountzion.ac.in,NULL,KOGILA B.,CSE,student,Student,0
+8259,dhanushponnuchamy8259@mountzion.ac.in,NULL,DHANUSH PONNUCHAMY P.,CSE,student,Student,0
+8262,vinothkumar8262@mountzion.ac.in,NULL,VINOTHKUMAR S,CSE,student,Student,0
+8263,swetha8263@mountzion.ac.in,NULL,SWETHA S,CSE,student,Student,0
+8266,nabilarani8266@mountzion.ac.in,NULL,NABILARANI I,CSE,student,Student,0
+8269,sanjaykumar8269@mountzion.ac.in,NULL,SANJAYKUMAR V.,CSE,student,Student,0
+8273,suriya8273@mountzion.ac.in,NULL,SURIYA S,CSE,student,Student,0
+8274,kalaivani8274@mountzion.ac.in,NULL,KALAIVANI A.,CSE,student,Student,0
+8282,dineshkumar8282@mountzion.ac.in,NULL,DINESH KUMAR N,CSE,student,Student,0
+8285,dinesh8285@mountzion.ac.in,NULL,DINESH R,CSE,student,Student,0
+8287,evangeline8287@mountzion.ac.in,NULL,EVANGELINE N,CSE,student,Student,0
+8288,karthickraja8288@mountzion.ac.in,NULL,KARTHICKRAJA U,CSE,student,Student,0
+8296,snehalnikam8296@mountzion.ac.in,NULL,SNEHAL NIKAM R,CSE,student,Student,0
+8297,yogadharshini8297@mountzion.ac.in,NULL,YOGADHARSHINI Y,CSE,student,Student,0
+8303,anushaancilenjohn8303@mountzion.ac.in,NULL,ANUSHA ANCILEN JOHN J,CSE,student,Student,0
+8309,akshay8309@mountzion.ac.in,NULL,AKSHAY JS,CSE,student,Student,0
+8319,hariharan8319@mountzion.ac.in,NULL,HARIHARAN V.,CSE,student,Student,0
+8322,aadhivishnu8322@mountzion.ac.in,NULL,AADHIVISHNU A,CSE,student,Student,0
+8324,sathishkumar8324@mountzion.ac.in,NULL,SATHISHKUMAR B,CSE,student,Student,0
+8343,balaji8343@mountzion.ac.in,NULL,BALAJI P.,CSE,student,Student,0
+8385,lakshmanan8385@mountzion.ac.in,NULL,LAKSHMANAN M,CSE,student,Student,0
+8386,balaganesh8386@mountzion.ac.in,NULL,BALAGANESH S,CSE,student,Student,0
+8401,abdulhakkeem8401@mountzion.ac.in,NULL,ABDUL HAKKEEM M.,CSE,student,Student,0
+8402,veerachinthana8402@mountzion.ac.in,NULL,VEERA CHINTHANA B.,CSE,student,Student,0
+8403,subasri8403@mountzion.ac.in,NULL,SUBASRI G,CSE,student,Student,0
+8404,keerthana8404@mountzion.ac.in,NULL,KEERTHANA M.,CSE,student,Student,0
+8410,mithunkumar8410@mountzion.ac.in,NULL,MITHUN KUMAR M,CSE,student,Student,0
+8416,vivekanandan8416@mountzion.ac.in,NULL,VIVEKANANDAN G.,CSE,student,Student,0
+8421,balaji8421@mountzion.ac.in,NULL,BALAJI K,CSE,student,Student,0
+8424,ganapathysankar8424@mountzion.ac.in,NULL,GANAPATHY SANKAR S.,CSE,student,Student,0
+8431,naptaliraja8431@mountzion.ac.in,NULL,NAPTALIRAJA C,CSE,student,Student,0
+8432,thirisha8432@mountzion.ac.in,NULL,THIRISHA P,CSE,student,Student,0
+8437,balaganesan8437@mountzion.ac.in,NULL,BALA GANESAN SR.,CSE,student,Student,0
+8438,dhivya8438@mountzion.ac.in,NULL,DHIVYA R,CSE,student,Student,0
+8440,subiksha8440@mountzion.ac.in,NULL,SUBIKSHA D.,CSE,student,Student,0
+8445,monica8445@mountzion.ac.in,NULL,MONICA G,CSE,student,Student,0
+8446,mukeshkanna8446@mountzion.ac.in,NULL,MUKESH KANNA N,CSE,student,Student,0
+8451,pramitha8451@mountzion.ac.in,NULL,PRAMITHA G.,CSE,student,Student,0
+8458,arunkumar8458@mountzion.ac.in,NULL,ARUNKUMAR M.,CSE,student,Student,0
+8462,kabileshwaran8462@mountzion.ac.in,NULL,KABILESHWARAN B.,CSE,student,Student,0
+8463,bharath8463@mountzion.ac.in,NULL,BHARATH R.,CSE,student,Student,0
+8473,shobana8473@mountzion.ac.in,NULL,SHOBANA M.,CSE,student,Student,0
+8475,arokiadeepa8475@mountzion.ac.in,NULL,AROKIA DEEPA A,CSE,student,Student,0
+8476,tamilselvan8476@mountzion.ac.in,NULL,TAMILSELVAN K,CSE,student,Student,0
+8478,shruthika8478@mountzion.ac.in,NULL,SHRUTHIKA S.,CSE,student,Student,0
+8483,nasreenbanu8483@mountzion.ac.in,NULL,NASREEN BANU S.,CSE,student,Student,0
+8484,johnjerlin8484@mountzion.ac.in,NULL,JOHN JERLIN J.,CSE,student,Student,0
+8500,sanjuabel8500@mountzion.ac.in,NULL,SANJU ABEL J.,CSE,student,Student,0
+8501,sabarish8501@mountzion.ac.in,NULL,SABARISH K,CSE,student,Student,0
+8504,mohamedjahirusain8504@mountzion.ac.in,NULL,MOHAMED JAHIR USAIN V,CSE,student,Student,0
+8506,sundhareshan8506@mountzion.ac.in,NULL,SUNDHARESHAN K,CSE,student,Student,0
+8507,seenu8507@mountzion.ac.in,NULL,SEENU A,CSE,student,Student,0
+8509,thillaivasan8509@mountzion.ac.in,NULL,THILLAI VASAN R,CSE,student,Student,0
+8510,nagaarjun8510@mountzion.ac.in,NULL,NAGAARJUN M,CSE,student,Student,0
+8512,sewagantro8512@mountzion.ac.in,NULL,SEWAG ANTRO.J,CSE,student,Student,0
+8514,ronsiapathees8514@mountzion.ac.in,NULL,RONSIA PATHEES.J,CSE,student,Student,0
+8515,sanatansoren8515@mountzion.ac.in,NULL,SANATAN SOREN,CSE,student,Student,0
+8516,sanatkumarhansda8516@mountzion.ac.in,NULL,SANAT KUMAR HANSDA,CSE,student,Student,0
+8519,rajeswari8519@mountzion.ac.in,NULL,RAJESWARI M.,CSE,student,Student,0
+8528,karthika8528@mountzion.ac.in,NULL,KARTHIKA K,CSE,student,Student,0
+8530,faizahamed8530@mountzion.ac.in,NULL,FAIZ AHAMED S,CSE,student,Student,0
+8531,pandiyan8531@mountzion.ac.in,NULL,PANDIYAN N,CSE,student,Student,0
+8534,priyadharshini8534@mountzion.ac.in,NULL,PRIYADHARSHINI K.,CSE,student,Student,0
+8540,pratheeba8540@mountzion.ac.in,NULL,PRATHEEBA.R,CSE,student,Student,0
+8542,jeyabharathi8542@mountzion.ac.in,NULL,JEYABHARATHI.M,CSE,student,Student,0
+8544,janani8544@mountzion.ac.in,NULL,JANANI.K,CSE,student,Student,0
+8547,hareharan8547@mountzion.ac.in,NULL,HAREHARAN K L,CSE,student,Student,0
+8550,divya8550@mountzion.ac.in,NULL,DIVYA G.,CSE,student,Student,0
+8551,nelliyan8551@mountzion.ac.in,NULL,NELLIYAN B.,CSE,student,Student,0
+8555,chandirapriya8555@mountzion.ac.in,NULL,CHANDIRA PRIYA A.,CSE,student,Student,0
+8556,akash8556@mountzion.ac.in,NULL,AKASH P,CSE,student,Student,0
+8560,surya8560@mountzion.ac.in,NULL,SURYA L.,CSE,student,Student,0
+8565,abirami8565@mountzion.ac.in,NULL,ABIRAMI P.,CSE,student,Student,0
+8571,karuppiah8571@mountzion.ac.in,NULL,KARUPPIAH N.,CSE,student,Student,0
+8573,jansirani8573@mountzion.ac.in,NULL,JANSIRANI V.,CSE,student,Student,0
+8574,sakthipriya8574@mountzion.ac.in,NULL,SAKTHI PRIYA M.,CSE,student,Student,0
+8577,valliammai8577@mountzion.ac.in,NULL,VALLIAMMAI KR.,CSE,student,Student,0
+8579,pruthiviraj8579@mountzion.ac.in,NULL,PRUTHIVIRAJ R.,CSE,student,Student,0
+8582,abinaya8582@mountzion.ac.in,NULL,ABINAYA C.,CSE,student,Student,0
+8583,roslinsylvia8583@mountzion.ac.in,NULL,ROSLIN SYLVIA A.,CSE,student,Student,0
+8586,sivasubramani8586@mountzion.ac.in,NULL,SIVASUBRAMANI V.,CSE,student,Student,0
+8587,venkateshwaran8587@mountzion.ac.in,NULL,VENKATESHWARAN K.,CSE,student,Student,0
+8588,pojankumar8588@mountzion.ac.in,NULL,POJAN KUMAR R.,CSE,student,Student,0
+8589,vignesh8589@mountzion.ac.in,NULL,VIGNESH V.,CSE,student,Student,0
+8590,malaiarasi8590@mountzion.ac.in,NULL,MALAIARASI.S,CSE,student,Student,0
+8593,gowtham8593@mountzion.ac.in,NULL,GOWTHAM S A.,CSE,student,Student,0
+8595,shabeermohamed8595@mountzion.ac.in,NULL,SHABEER MOHAMED A.,CSE,student,Student,0
+8598,dharshini8598@mountzion.ac.in,NULL,DHARSHINI.M,CSE,student,Student,0
+8599,tamilselvam8599@mountzion.ac.in,NULL,TAMIL SELVAM.S,CSE,student,Student,0
+8602,sakthiram8602@mountzion.ac.in,NULL,SAKTHIRAM.S,CSE,student,Student,0
+8604,dineshrajan8604@mountzion.ac.in,NULL,DINESH RAJAN S V.,CSE,student,Student,0
+8607,tharikabdulkadhar8607@mountzion.ac.in,NULL,THARIK ABDULKADHAR S.,CSE,student,Student,0
+8608,aashika8608@mountzion.ac.in,NULL,AASHIKA S.,CSE,student,Student,0
+8610,dharani8610@mountzion.ac.in,NULL,DHARANI S.,CSE,student,Student,0
+8616,manikandan8616@mountzion.ac.in,NULL,MANIKANDAN M.,CSE,student,Student,0
+8617,archan8617@mountzion.ac.in,NULL,ARCHAN.S,CSE,student,Student,0
+8626,aarthy8626@mountzion.ac.in,NULL,AARTHY R.,CSE,student,Student,0
+8627,saravanan8627@mountzion.ac.in,NULL,SARAVANAN S,CSE,student,Student,0
+8628,guhadharman8628@mountzion.ac.in,NULL,GUHADHARMAN P.,CSE,student,Student,0
+8630,jebersonjohnjoseph8630@mountzion.ac.in,NULL,JEBERSON JOHN JOSEPH,CSE,student,Student,0
+8631,silamparasan8631@mountzion.ac.in,NULL,SILAMPARASAN P,CSE,student,Student,0
+8631,silambarasan8631@mountzion.ac.in,NULL,SILAMBARASAN.P,CSE,student,Student,0
+8153,swathi8153@mountzion.ac.in,NULL,SWATHI S.,ECE,student,Student,0
+8183,arulmichelle8183@mountzion.ac.in,NULL,ARUL MICHELLE S.,ECE,student,Student,0
+8206,harini8206@mountzion.ac.in,NULL,HARINI .S,ECE,student,Student,0
+8241,vinothraajan8241@mountzion.ac.in,NULL,VINOTHRAAJAN K.,ECE,student,Student,0
+8255,prakathisvaran8255@mountzion.ac.in,NULL,PRAKATHISVARAN R,ECE,student,Student,0
+8267,sivaguru8267@mountzion.ac.in,NULL,SIVAGURU R,ECE,student,Student,0
+8268,mahalakshmi8268@mountzion.ac.in,NULL,MAHALAKSHMI A,ECE,student,Student,0
+8275,abirami8275@mountzion.ac.in,NULL,ABIRAMI A.,ECE,student,Student,0
+8302,prasanth8302@mountzion.ac.in,NULL,Unknown,ECE,student,Student,0
+8315,aishwarya8315@mountzion.ac.in,NULL,AISHWARYA AP.,ECE,student,Student,0
+8317,deepalakshmi8317@mountzion.ac.in,NULL,DEEPALAKSHMI K.,ECE,student,Student,0
+8355,pragadeeshwaran8355@mountzion.ac.in,NULL,PRAGADEESHWARAN S,ECE,student,Student,0
+8374,keerthika8374@mountzion.ac.in,NULL,KEERTHIKA P.,ECE,student,Student,0
+8390,mohamedfaishal8390@mountzion.ac.in,NULL,MOHAMED FAISHAL A,ECE,student,Student,0
+8411,arulinnasiammal8411@mountzion.ac.in,NULL,ARUL INNASI AMMAL I,ECE,student,Student,0
+8449,ganesan8449@mountzion.ac.in,NULL,GANESAN G.,ECE,student,Student,0
+8464,thulasiragulraj8464@mountzion.ac.in,NULL,THULASI RAGUL RAJ K.,ECE,student,Student,0
+8466,abdulasikraguman8466@mountzion.ac.in,NULL,ABDUL ASIK RAGUMAN S.,ECE,student,Student,0
+8472,niraimathi8472@mountzion.ac.in,NULL,NIRAIMATHI S.,ECE,student,Student,0
+8489,srisaran8489@mountzion.ac.in,NULL,SRI SARAN M.,ECE,student,Student,0
+8497,kirubhasini8497@mountzion.ac.in,NULL,KIRUBHASINI I.,ECE,student,Student,0
+8522,sivasundaramenan8522@mountzion.ac.in,NULL,SIVASUNDARA MENAN S,ECE,student,Student,0
+8536,palanibharathi8536@mountzion.ac.in,NULL,PALANIBHARATHI V.,ECE,student,Student,0
+8539,nisha8539@mountzion.ac.in,NULL,NISHA.V,ECE,student,Student,0
+8541,iyappan8541@mountzion.ac.in,NULL,IYAPPAN.M,ECE,student,Student,0
+8545,ramesh8545@mountzion.ac.in,NULL,RAMESH.T,ECE,student,Student,0
+8546,yashwanth8546@mountzion.ac.in,NULL,YASHWANTH.K,ECE,student,Student,0
+8553,mohamedarshath8553@mountzion.ac.in,NULL,MOHAMED ARSHATH,ECE,student,Student,0
+8554,guhanraj8554@mountzion.ac.in,NULL,GUHANRAJ R.,ECE,student,Student,0
+8558,mohamedfaizel8558@mountzion.ac.in,NULL,MOHAMED FAIZEL S.,ECE,student,Student,0
+8563,yazhini8563@mountzion.ac.in,NULL,YAZHINI A.,ECE,student,Student,0
+8566,mohamedshariff8566@mountzion.ac.in,NULL,MOHAMED SHARIFF S.,ECE,student,Student,0
+8567,mohamedbasith8567@mountzion.ac.in,NULL,MOHAMED BASITH K,ECE,student,Student,0
+8568,yaalin8568@mountzion.ac.in,NULL,YAALIN S,ECE,student,Student,0
+8569,sriramnehru8569@mountzion.ac.in,NULL,SRIRAMNEHRU M,ECE,student,Student,0
+8580,prabakaran8580@mountzion.ac.in,NULL,PRABAKARAN R.,ECE,student,Student,0
+8594,devadharshini8594@mountzion.ac.in,NULL,DEVA DHARSHINI P M.,ECE,student,Student,0
+8600,eugeneebiselvaraj8600@mountzion.ac.in,NULL,EUGENE EBI SELVARAJ.S,ECE,student,Student,0
+8605,sathiya8605@mountzion.ac.in,NULL,SATHIYA P.,ECE,student,Student,0
+8606,sivaroshini8606@mountzion.ac.in,NULL,SIVAROSHINI E.,ECE,student,Student,0
+8615,varatharajan8615@mountzion.ac.in,NULL,VARATHARAJAN. P.S,ECE,student,Student,0
+8618,ragulprasanth8618@mountzion.ac.in,NULL,RAGUL PRASANTH.A,ECE,student,Student,0
+8621,abishek8621@mountzion.ac.in,NULL,ABISHEK A.,ECE,student,Student,0
+8624,sanjana8624@mountzion.ac.in,NULL,SANJANA.D,ECE,student,Student,0
+8633,silambarasan8633@mountzion.ac.in,NULL,SILAMBARASAN. P,ECE,student,Student,0
+8634,nandhakumar8634@mountzion.ac.in,NULL,NANDHAKUMAR.S,ECE,student,Student,0
+8147,raguram8147@mountzion.ac.in,NULL,RAGURAM M.,EEE,student,Student,0
+8151,vengatesh8151@mountzion.ac.in,NULL,VENGATESH M.,EEE,student,Student,0
+8247,raveendran8247@mountzion.ac.in,NULL,RAVEENDRAN V.,EEE,student,Student,0
+8270,prabha8270@mountzion.ac.in,NULL,PRABHA S.,EEE,student,Student,0
+8283,ajay8283@mountzion.ac.in,NULL,AJAY M.,EEE,student,Student,0
+8345,arunkumar8345@mountzion.ac.in,NULL,ARUNKUMAR G.,EEE,student,Student,0
+8358,priyadharshini8358@mountzion.ac.in,NULL,PRIYADHARSHINI S.,EEE,student,Student,0
+8400,sooriyakumar8400@mountzion.ac.in,NULL,SOORIYAKUMAR P.,EEE,student,Student,0
+8425,dhamayanthi8425@mountzion.ac.in,NULL,DHAMAYANTHI A.,EEE,student,Student,0
+8470,sindhubairavi8470@mountzion.ac.in,NULL,SINDHU BAIRAVI N.,EEE,student,Student,0
+8502,aswin8502@mountzion.ac.in,NULL,ASWIN B,EEE,student,Student,0
+8523,pandiyarajan8523@mountzion.ac.in,NULL,PANDIYARAJAN K,EEE,student,Student,0
+8524,hariharan8524@mountzion.ac.in,NULL,HARIHARAN R,EEE,student,Student,0
+8525,devadharshini8525@mountzion.ac.in,NULL,DEVADHARSHINI P.,EEE,student,Student,0
+8570,eliyas8570@mountzion.ac.in,NULL,ELIYAS P.,EEE,student,Student,0
+8578,mohammedhussain8578@mountzion.ac.in,NULL,MOHAMMED HUSSAIN S.,EEE,student,Student,0
+8581,praveen8581@mountzion.ac.in,NULL,PRAVEEN S.,EEE,student,Student,0
+8591,balaji8591@mountzion.ac.in,NULL,BALAJI.M,EEE,student,Student,0
+8592,usha8592@mountzion.ac.in,NULL,USHA.K,EEE,student,Student,0
+8614,palanibharathi8614@mountzion.ac.in,NULL,PALANI BHARATHI S.,EEE,student,Student,0
+8629,alagusundar8629@mountzion.ac.in,NULL,ALAGUSUNDAR B.,EEE,student,Student,0
+8150,mohamedsiddiq8150@mountzion.ac.in,NULL,MOHAMED SIDDIQ A.,MECH,student,Student,0
+8164,vignesh8164@mountzion.ac.in,NULL,VIGNESH M,MECH,student,Student,0
+8176,gowtham8176@mountzion.ac.in,NULL,GOWTHAM C.,MECH,student,Student,0
+8186,dhanush8186@mountzion.ac.in,NULL,DHANUSH T.,MECH,student,Student,0
+8225,kaviyarasan8225@mountzion.ac.in,NULL,KAVIYARASAN R,MECH,student,Student,0
+8231,rajasundaram8231@mountzion.ac.in,NULL,RAJASUNDARAM S,MECH,student,Student,0
+8242,akilesh8242@mountzion.ac.in,NULL,AKILESH V.,MECH,student,Student,0
+8264,janarthanam8264@mountzion.ac.in,NULL,JANARTHANAM S,MECH,student,Student,0
+8265,raghuraghul8265@mountzion.ac.in,NULL,RAGHURAGHUL K,MECH,student,Student,0
+8272,praveen8272@mountzion.ac.in,NULL,PRAVEEN M,MECH,student,Student,0
+8290,siva8290@mountzion.ac.in,NULL,SIVA P,MECH,student,Student,0
+8291,karuppaiah8291@mountzion.ac.in,NULL,KARUPPAIAH P.,MECH,student,Student,0
+8302,prasath8302@mountzion.ac.in,NULL,PRASATH K,MECH,student,Student,0
+8306,suguna8306@mountzion.ac.in,NULL,SUGUNA S.,MECH,student,Student,0
+8331,naveenkumar8331@mountzion.ac.in,NULL,NAVEENKUMAR S,MECH,student,Student,0
+8336,saravanakumar8336@mountzion.ac.in,NULL,SARAVANAKUMAR P.,MECH,student,Student,0
+8339,karuppiah8339@mountzion.ac.in,NULL,KARUPPIAH P,MECH,student,Student,0
+8405,ashokkumar8405@mountzion.ac.in,NULL,ASHOKKUMAR S,MECH,student,Student,0
+8433,vivek8433@mountzion.ac.in,NULL,VIVEK S,MECH,student,Student,0
+8559,shyamraj8559@mountzion.ac.in,NULL,SHYAMRAJ R.,MECH,student,Student,0
+8562,anandharaj8562@mountzion.ac.in,NULL,ANANDHARAJ V.,MECH,student,Student,0
+8576,sakthivel8576@mountzion.ac.in,NULL,SAKTHIVEL P.,MECH,student,Student,0
+8584,rajapandian8584@mountzion.ac.in,NULL,RAJAPANDIAN R.,MECH,student,Student,0
+8597,pandikumar8597@mountzion.ac.in,NULL,PANDIKUMAR.P,MECH,student,Student,0
+8601,vikash8601@mountzion.ac.in,NULL,VIKASH.S,MECH,student,Student,0
+8620,harishjeyaram8620@mountzion.ac.in,NULL,HARISH JEYARAM E.,MECH,student,Student,0
+8623,surendran8623@mountzion.ac.in,NULL,SURENDRAN M.,MECH,student,Student,0
+8625,venkatesan8625@mountzion.ac.in,NULL,VENKATESAN S.,MECH,student,Student,0
+8632,thirumurugan8632@mountzion.ac.in,NULL,THIRUMURUGAN,MECH,student,Student,0
+8137,pradeeparaji8137@mountzion.ac.in,NULL,PRADEEPA RAJI A,PED,student,Student,0
+8148,clemensia8148@mountzion.ac.in,NULL,CLEMENSIA A.,PED,student,Student,0
+8234,duraipandi8234@mountzion.ac.in,NULL,DURAIPANDI S,PED,student,Student,0
+8370,sarika8370@mountzion.ac.in,NULL,SARIKA N,PED,student,Student,0
+8393,priyadharshini8393@mountzion.ac.in,NULL,PRIYADHARSHINI N.,PED,student,Student,0
+8395,sanjay8395@mountzion.ac.in,NULL,SANJAY PL.,PED,student,Student,0
+8448,zibylisha8448@mountzion.ac.in,NULL,ZIBYLISHA F.,PED,student,Student,0
+8499,daniellak8499@mountzion.ac.in,NULL,DANIEL LAK T.,PED,student,Student,0
+8132,bhuvaneswari8132@mountzion.ac.in,NULL,BHUVANESWARI S,STE,student,Student,0
+8134,kannappan8134@mountzion.ac.in,NULL,KANNAPPAN A.,STE,student,Student,0
+8195,azhagarasu8195@mountzion.ac.in,NULL,AZHAGARASU .M,STE,student,Student,0
+8202,keerthana8202@mountzion.ac.in,NULL,KEERTHANA .K,STE,student,Student,0
+8208,sathishkumar8208@mountzion.ac.in,NULL,SATHISH KUMAR N,STE,student,Student,0
+8209,thivakar8209@mountzion.ac.in,NULL,THIVAKAR K,STE,student,Student,0
+8277,chithradevi8277@mountzion.ac.in,NULL,CHITHRADEVI S.,STE,student,Student,0
+8377,vigneshwaran8377@mountzion.ac.in,NULL,VIGNESHWARAN P.,STE,student,Student,0
+8392,dharmabalan8392@mountzion.ac.in,NULL,DHARMABALAN R.,STE,student,Student,0
+8396,pandikumar8396@mountzion.ac.in,NULL,PANDI KUMAR R.,STE,student,Student,0
+8397,mathankumar8397@mountzion.ac.in,NULL,MATHANKUMAR K.,STE,student,Student,0
+8398,gohularivarasan8398@mountzion.ac.in,NULL,GOHUL ARIVARASAN T.,STE,student,Student,0
+8399,harishpraveen8399@mountzion.ac.in,NULL,HARISH PRAVEEN S.,STE,student,Student,0
+8406,kadappan8406@mountzion.ac.in,NULL,KADAPPAN R.,STE,student,Student,0
+8407,arunkumar8407@mountzion.ac.in,NULL,ARUNKUMAR U.,STE,student,Student,0
+8408,surya8408@mountzion.ac.in,NULL,SURYA K.,STE,student,Student,0
+8434,aravindhan8434@mountzion.ac.in,NULL,ARAVINDHAN G,STE,student,Student,0
+8447,ganeshbabu8447@mountzion.ac.in,NULL,GANESH BABU P,STE,student,Student,0
+8452,vinovathani8452@mountzion.ac.in,NULL,VINOVATHANI J.,STE,student,Student,0
