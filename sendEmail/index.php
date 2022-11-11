@@ -20,11 +20,11 @@ header('Content-Type: application/json');
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   // collect value of input field
 
-  $sender_name = "MOUNTZION E-LIBRARY";
-    $sender_email = "noreply@mailer.org";
+  $sender_name = "";
+    $sender_email = "";
     //
-    $username = "canteentransactions@mountzion.ac.in";
-    $password = "peqnrebrvkytvykf";
+    $username = "";
+    $password = "";
     //
     $receiver_email = $_POST['email'];
     $message = "Hey! Your New Password is => ".$_POST['password'] ;
